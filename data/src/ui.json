@@ -1,0 +1,330 @@
+{
+  "app.title": {
+    "en": "Rawshan",
+    "ar": "روشن"
+  },
+  "app.tagline": {
+    "en": "A working register for the NCA Essential Cybersecurity Controls",
+    "ar": "سجل عملي لضوابط الأمن السيبراني الأساسية من الهيئة الوطنية للأمن السيبراني"
+  },
+  "lang.switch": {
+    "en": "العربية",
+    "ar": "English"
+  },
+  "lang.switchLabel": {
+    "en": "Switch to Arabic",
+    "ar": "التبديل إلى الإنجليزية"
+  },
+  "theme.toLight": {
+    "en": "Light",
+    "ar": "فاتح"
+  },
+  "theme.toDark": {
+    "en": "Dark",
+    "ar": "داكن"
+  },
+  "theme.label": {
+    "en": "Switch theme",
+    "ar": "تبديل المظهر"
+  },
+  "skip": {
+    "en": "Skip to content",
+    "ar": "تخطَّ إلى المحتوى"
+  },
+  "tabs.label": {
+    "en": "Sections",
+    "ar": "الأقسام"
+  },
+  "tab.register": {
+    "en": "Register",
+    "ar": "السجل"
+  },
+  "tab.applicability": {
+    "en": "Applicability",
+    "ar": "قابلية التطبيق"
+  },
+  "tab.crosswalk": {
+    "en": "Crosswalk",
+    "ar": "المقابلة"
+  },
+  "tab.pdpl": {
+    "en": "PDPL",
+    "ar": "حماية البيانات"
+  },
+  "tab.report": {
+    "en": "Report",
+    "ar": "التقرير"
+  },
+  "tab.about": {
+    "en": "About",
+    "ar": "عن الأداة"
+  },
+  "status.implemented": {
+    "en": "Implemented",
+    "ar": "مطبّق"
+  },
+  "status.partial": {
+    "en": "Partially implemented",
+    "ar": "مطبّق جزئيًا"
+  },
+  "status.notimplemented": {
+    "en": "Not implemented",
+    "ar": "غير مطبّق"
+  },
+  "status.notapplicable": {
+    "en": "Not applicable",
+    "ar": "غير منطبق"
+  },
+  "status.unset": {
+    "en": "Not assessed",
+    "ar": "لم يُقيّم"
+  },
+  "readiness.title": {
+    "en": "Readiness",
+    "ar": "الجاهزية"
+  },
+  "readiness.overall": {
+    "en": "Overall readiness",
+    "ar": "الجاهزية الإجمالية"
+  },
+  "readiness.byDomain": {
+    "en": "Readiness by domain",
+    "ar": "الجاهزية بحسب المكوّن"
+  },
+  "readiness.assessed": {
+    "en": "{n} of {total} controls assessed",
+    "ar": "جرى تقييم {n} من {total} ضابطًا"
+  },
+  "band.initial": {
+    "en": "Initial",
+    "ar": "مبدئي"
+  },
+  "band.developing": {
+    "en": "Developing",
+    "ar": "قيد التطوير"
+  },
+  "band.defined": {
+    "en": "Defined",
+    "ar": "محدّد"
+  },
+  "band.managed": {
+    "en": "Managed",
+    "ar": "مُدار"
+  },
+  "register.title": {
+    "en": "Control register",
+    "ar": "سجل الضوابط"
+  },
+  "register.intro": {
+    "en": "Set the status of each control. Rawshan rolls the results up into readiness by domain and overall.",
+    "ar": "حدّد حالة كل ضابط فيجمع روشن النتائج في جاهزية بحسب المكوّن وجاهزية إجمالية."
+  },
+  "search.label": {
+    "en": "Search controls",
+    "ar": "البحث في الضوابط"
+  },
+  "search.placeholder": {
+    "en": "Search by ID, title or text",
+    "ar": "ابحث بالمعرّف أو العنوان أو النص"
+  },
+  "filter.all": {
+    "en": "All",
+    "ar": "الكل"
+  },
+  "filter.implemented": {
+    "en": "Implemented",
+    "ar": "مطبّق"
+  },
+  "filter.partial": {
+    "en": "Partial",
+    "ar": "جزئي"
+  },
+  "filter.gap": {
+    "en": "Gaps",
+    "ar": "الفجوات"
+  },
+  "filter.na": {
+    "en": "Not applicable",
+    "ar": "غير منطبق"
+  },
+  "filter.unset": {
+    "en": "Not assessed",
+    "ar": "لم يُقيّم"
+  },
+  "register.page": {
+    "en": "Page {n}",
+    "ar": "صفحة {n}"
+  },
+  "register.controlsIn": {
+    "en": "{n} controls",
+    "ar": "{n} ضابطًا"
+  },
+  "note.add": {
+    "en": "Add a note",
+    "ar": "إضافة ملاحظة"
+  },
+  "note.placeholder": {
+    "en": "Evidence, owner or next step",
+    "ar": "دليل أو مسؤول أو خطوة تالية"
+  },
+  "appl.title": {
+    "en": "Which NCA controls apply to you",
+    "ar": "أي ضوابط الهيئة تنطبق عليك"
+  },
+  "appl.intro": {
+    "en": "The Essential Cybersecurity Controls are the baseline for national entities and critical infrastructure. Depending on what you run, other NCA frameworks apply on top. This register covers the ECC in full and points you to the rest.",
+    "ar": "الضوابط الأساسية للأمن السيبراني هي الأساس للجهات الوطنية والبنى التحتية الحساسة وبحسب ما تشغّله تنطبق أطر أخرى للهيئة إضافةً إليها حيث يغطي هذا السجل الضوابط الأساسية بالكامل ويرشدك إلى بقيتها."
+  },
+  "appl.baseline": {
+    "en": "Baseline",
+    "ar": "الأساس"
+  },
+  "appl.who": {
+    "en": "Who it applies to",
+    "ar": "لمن ينطبق"
+  },
+  "appl.covered": {
+    "en": "Covered by this register",
+    "ar": "مشمول بهذا السجل"
+  },
+  "appl.separate": {
+    "en": "Separate NCA framework",
+    "ar": "إطار مستقل للهيئة"
+  },
+  "cw.title": {
+    "en": "Crosswalk",
+    "ar": "المقابلة"
+  },
+  "cw.intro": {
+    "en": "How each ECC subdomain lines up with ISO 27001 and the NIST Cybersecurity Framework. This mapping is Rawshan's own analysis, not an official one.",
+    "ar": "كيف يتقابل كل مكوّن فرعي من الضوابط الأساسية مع معيار ISO 27001 وإطار الأمن السيبراني من NIST وهذه المقابلة اجتهاد خاص بروشن لا مقابلة رسمية."
+  },
+  "cw.iso": {
+    "en": "ISO 27001",
+    "ar": "معيار ISO 27001"
+  },
+  "cw.csf": {
+    "en": "NIST CSF",
+    "ar": "إطار NIST"
+  },
+  "pd.title": {
+    "en": "Personal Data Protection",
+    "ar": "حماية البيانات الشخصية"
+  },
+  "pd.intro": {
+    "en": "Core obligations from the Saudi Personal Data Protection Law that sit alongside the ECC. Rely on the official law for compliance decisions.",
+    "ar": "التزامات أساسية من نظام حماية البيانات الشخصية السعودي ترافق الضوابط الأساسية واعتمد على النظام الرسمي في قرارات الامتثال."
+  },
+  "report.title": {
+    "en": "Readiness report",
+    "ar": "تقرير الجاهزية"
+  },
+  "report.intro": {
+    "en": "A snapshot you can print or export.",
+    "ar": "لقطة يمكن طباعتها أو تصديرها."
+  },
+  "report.export": {
+    "en": "Export",
+    "ar": "تصدير"
+  },
+  "report.print": {
+    "en": "Print",
+    "ar": "طباعة"
+  },
+  "report.generated": {
+    "en": "Generated {d}",
+    "ar": "أُنشئ في {d}"
+  },
+  "about.title": {
+    "en": "About this tool",
+    "ar": "عن الأداة"
+  },
+  "about.what": {
+    "en": "Rawshan is an independent, open source register for working through Saudi Arabia's NCA Essential Cybersecurity Controls, with a crosswalk to ISO 27001 and the NIST Cybersecurity Framework and the core Personal Data Protection Law obligations.",
+    "ar": "روشن سجل مستقل مفتوح المصدر للعمل على الضوابط الأساسية للأمن السيبراني في المملكة العربية السعودية مع مقابلة لمعيار ISO 27001 وإطار الأمن السيبراني من NIST والتزامات نظام حماية البيانات الشخصية الأساسية."
+  },
+  "about.how": {
+    "en": "Set each control's status and Rawshan computes readiness by domain and overall, all in your browser with nothing sent anywhere.",
+    "ar": "حدّد حالة كل ضابط فيحسب روشن الجاهزية بحسب المكوّن وإجماليًا داخل متصفحك دون إرسال أي شيء إلى أي مكان."
+  },
+  "about.source": {
+    "en": "The controls belong to the NCA. Control IDs, titles and page numbers follow the NCA official English text. Summaries, the crosswalk and notes are this project's own work and are kept apart from the official text.",
+    "ar": "الضوابط ملك للهيئة الوطنية للأمن السيبراني حيث تستند معرّفات الضوابط وعناوينها وأرقام صفحاتها إلى النص الإنجليزي الرسمي أما الملخصات والمقابلة والملاحظات فهي عمل خاص بهذا المشروع مفصول عن النص الرسمي."
+  },
+  "about.disclaimer": {
+    "en": "Not affiliated with or endorsed by the NCA. Use it as a working aid and rely on the official documents for compliance decisions.",
+    "ar": "لا ترتبط هذه الأداة بالهيئة الوطنية للأمن السيبراني ولا تحظى باعتمادها لذا استخدمها أداةً مساعدة واعتمد على الوثائق الرسمية في قرارات الامتثال."
+  },
+  "about.nameTitle": {
+    "en": "About the name",
+    "ar": "عن الاسم"
+  },
+  "about.name": {
+    "en": "Rawshan (روشن) is the carved wooden lattice window of old Hijazi houses, a screen of fine geometric order that lets people see out and keeps the inside protected. A fitting name for a register that gives you a clear view of your controls.",
+    "ar": "روشن هو النافذة الخشبية المشغولة في البيوت الحجازية القديمة وهي مشربية بنظام هندسي دقيق تتيح النظر إلى الخارج وتحفظ الداخل لذا جاء الاسم مناسبًا لسجل يمنحك رؤية واضحة لضوابطك."
+  },
+  "about.mcp": {
+    "en": "AI agents can query the same data through the bundled MCP server. The README explains the setup.",
+    "ar": "يمكن لوكلاء الذكاء الاصطناعي الاستعلام عن البيانات نفسها عبر خادم MCP المرفق ويشرح ملف README طريقة إعداده."
+  },
+  "about.sources": {
+    "en": "Official sources",
+    "ar": "المصادر الرسمية"
+  },
+  "about.code": {
+    "en": "Source code",
+    "ar": "الشفرة المصدرية"
+  },
+  "footer.license": {
+    "en": "Open source under the MIT license. The ECC belongs to the NCA.",
+    "ar": "مفتوح المصدر بترخيص MIT والضوابط الأساسية ملك للهيئة الوطنية للأمن السيبراني."
+  },
+  "footer.version": {
+    "en": "Version {v}",
+    "ar": "الإصدار {v}"
+  },
+  "popup.title": {
+    "en": "For learning and reference",
+    "ar": "لأغراض التعلم والاطلاع"
+  },
+  "popup.body1": {
+    "en": "Rawshan is an independent, open source tool for working through Saudi Arabia's NCA Essential Cybersecurity Controls. It is not official, and it has no affiliation with the National Cybersecurity Authority.",
+    "ar": "روشن أداة مستقلة مفتوحة المصدر للعمل على الضوابط الأساسية للأمن السيبراني في المملكة العربية السعودية وهي غير رسمية ولا صلة لها بالهيئة الوطنية للأمن السيبراني."
+  },
+  "popup.body2": {
+    "en": "Rely on the official controls for any compliance decision.",
+    "ar": "اعتمد على الضوابط الرسمية في أي قرار امتثال."
+  },
+  "popup.ack": {
+    "en": "I understand",
+    "ar": "فهمت"
+  },
+  "empty.search": {
+    "en": "Nothing matches your search.",
+    "ar": "لا شيء يطابق بحثك."
+  },
+  "state.saved": {
+    "en": "Saved",
+    "ar": "محفوظ"
+  },
+  "state.unsaved": {
+    "en": "Not saved",
+    "ar": "غير محفوظ"
+  },
+  "action.reset": {
+    "en": "Reset",
+    "ar": "إعادة تعيين"
+  },
+  "action.resetConfirm": {
+    "en": "Clear all statuses and notes?",
+    "ar": "مسح جميع الحالات والملاحظات؟"
+  },
+  "source.line": {
+    "en": "Built on the NCA Essential Cybersecurity Controls (ECC-2:2024).",
+    "ar": "مبني على الضوابط الأساسية للأمن السيبراني ECC-2 لعام 2024 الصادرة عن الهيئة الوطنية للأمن السيبراني."
+  },
+  "col.band": {
+    "en": "Level",
+    "ar": "المستوى"
+  }
+}

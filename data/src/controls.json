@@ -1,0 +1,760 @@
+{
+ "controls": [
+  {
+   "id": "1-1-1",
+   "subdomain": "1-1",
+   "summary_en": "Define, document and approve the cybersecurity strategy, backed by the authorized official and aligned with legal and regulatory requirements.",
+   "summary_ar": "تحديد استراتيجية الأمن السيبراني وتوثيقها واعتمادها بدعم الرئيس المخوّل بما يتوافق مع المتطلبات التشريعية والتنظيمية.",
+   "page": 16
+  },
+  {
+   "id": "1-1-2",
+   "subdomain": "1-1",
+   "summary_en": "Execute an action plan that puts the cybersecurity strategy into effect.",
+   "summary_ar": "تنفيذ خطة عمل تضع استراتيجية الأمن السيبراني موضع التطبيق.",
+   "page": 16
+  },
+  {
+   "id": "1-1-3",
+   "subdomain": "1-1",
+   "summary_en": "Review the strategy at planned intervals or when legal and regulatory requirements change.",
+   "summary_ar": "مراجعة الاستراتيجية على فترات مخططة أو عند تغير المتطلبات التشريعية والتنظيمية.",
+   "page": 16
+  },
+  {
+   "id": "1-2-1",
+   "subdomain": "1-2",
+   "summary_en": "Establish a cybersecurity department that is independent of IT and reports at a suitably high level without conflict of interest.",
+   "summary_ar": "إنشاء إدارة للأمن السيبراني مستقلة عن تقنية المعلومات ترفع تقاريرها لمستوى مناسب دون تعارض في المصالح.",
+   "page": 16
+  },
+  {
+   "id": "1-2-2",
+   "subdomain": "1-2",
+   "summary_en": "Fill cybersecurity positions with full-time, qualified Saudi professionals.",
+   "summary_ar": "شغل وظائف الأمن السيبراني بكوادر سعودية مؤهلة ومتفرغة.",
+   "page": 16
+  },
+  {
+   "id": "1-2-3",
+   "subdomain": "1-2",
+   "summary_en": "Form a cybersecurity supervisory committee with defined members, duties and governance.",
+   "summary_ar": "تشكيل لجنة إشرافية للأمن السيبراني بأعضاء ومهام وحوكمة محددة.",
+   "page": 16
+  },
+  {
+   "id": "1-3-1",
+   "subdomain": "1-3",
+   "summary_en": "Identify, document and approve cybersecurity policies and procedures and communicate them to the relevant people inside the entity.",
+   "summary_ar": "تحديد سياسات الأمن السيبراني وإجراءاته وتوثيقها واعتمادها ونشرها على المعنيين داخل الجهة.",
+   "page": 17
+  },
+  {
+   "id": "1-3-2",
+   "subdomain": "1-3",
+   "summary_en": "Make sure the policies and procedures are actually implemented across the entity.",
+   "summary_ar": "التأكد من تطبيق السياسات والإجراءات فعليًا في جميع أنحاء الجهة.",
+   "page": 17
+  },
+  {
+   "id": "1-3-3",
+   "subdomain": "1-3",
+   "summary_en": "Back the policies with technical security standards for systems and technologies such as firewalls, databases and operating systems.",
+   "summary_ar": "دعم السياسات بمعايير أمنية تقنية للأنظمة والتقنيات مثل جدران الحماية وقواعد البيانات وأنظمة التشغيل.",
+   "page": 17
+  },
+  {
+   "id": "1-3-4",
+   "subdomain": "1-3",
+   "summary_en": "Review and update the policies and procedures at planned intervals or on relevant change, and document and approve the changes.",
+   "summary_ar": "مراجعة السياسات والإجراءات وتحديثها على فترات مخططة أو عند التغيير مع توثيق التغييرات واعتمادها.",
+   "page": 17
+  },
+  {
+   "id": "1-4-1",
+   "subdomain": "1-4",
+   "summary_en": "Define, document and approve the cybersecurity governance structure, roles and responsibilities and assign the people concerned.",
+   "summary_ar": "تحديد هيكل حوكمة الأمن السيبراني وأدواره ومسؤولياته وتوثيقها واعتمادها وإسنادها للمعنيين.",
+   "page": 17
+  },
+  {
+   "id": "1-4-2",
+   "subdomain": "1-4",
+   "summary_en": "Review and update cybersecurity roles and responsibilities at planned intervals or on relevant change.",
+   "summary_ar": "مراجعة أدوار الأمن السيبراني ومسؤولياته وتحديثها على فترات مخططة أو عند التغيير.",
+   "page": 17
+  },
+  {
+   "id": "1-5-1",
+   "subdomain": "1-5",
+   "summary_en": "Define, document and approve a cybersecurity risk management methodology and its procedures.",
+   "summary_ar": "تحديد منهجية لإدارة مخاطر الأمن السيبراني وإجراءاتها وتوثيقها واعتمادها.",
+   "page": 18
+  },
+  {
+   "id": "1-5-2",
+   "subdomain": "1-5",
+   "summary_en": "Implement the cybersecurity risk management methodology in practice.",
+   "summary_ar": "تطبيق منهجية إدارة مخاطر الأمن السيبراني عمليًا.",
+   "page": 18
+  },
+  {
+   "id": "1-5-3",
+   "subdomain": "1-5",
+   "summary_en": "Assess cybersecurity risk at key points such as early in projects and before major technology changes.",
+   "summary_ar": "تقييم مخاطر الأمن السيبراني عند النقاط المهمة مثل بداية المشاريع وقبل التغييرات التقنية الكبيرة.",
+   "page": 18
+  },
+  {
+   "id": "1-5-4",
+   "subdomain": "1-5",
+   "summary_en": "Review the risk management methodology and its implementation at planned intervals or on relevant change.",
+   "summary_ar": "مراجعة منهجية إدارة المخاطر وتطبيقها على فترات مخططة أو عند التغيير.",
+   "page": 18
+  },
+  {
+   "id": "1-6-1",
+   "subdomain": "1-6",
+   "summary_en": "Include cybersecurity in project and change management so related risks are identified and managed.",
+   "summary_ar": "تضمين الأمن السيبراني في إدارة المشاريع والتغيير لتحديد المخاطر المرتبطة وإدارتها.",
+   "page": 18
+  },
+  {
+   "id": "1-6-2",
+   "subdomain": "1-6",
+   "summary_en": "Cover cybersecurity in software and application development, including vulnerability assessment and secure review.",
+   "summary_ar": "تغطية الأمن السيبراني في تطوير البرمجيات والتطبيقات بما في ذلك تقييم الثغرات والمراجعة الآمنة.",
+   "page": 19
+  },
+  {
+   "id": "1-6-3",
+   "subdomain": "1-6",
+   "summary_en": "Test that new and changed software meets the cybersecurity requirements before it goes live.",
+   "summary_ar": "اختبار توافق البرمجيات الجديدة والمعدلة مع متطلبات الأمن السيبراني قبل التشغيل.",
+   "page": 19
+  },
+  {
+   "id": "1-6-4",
+   "subdomain": "1-6",
+   "summary_en": "Review the project management cybersecurity requirements periodically.",
+   "summary_ar": "مراجعة متطلبات الأمن السيبراني في إدارة المشاريع دوريًا.",
+   "page": 19
+  },
+  {
+   "id": "1-7-1",
+   "subdomain": "1-7",
+   "summary_en": "Identify and comply with cybersecurity obligations from nationally approved international agreements and commitments.",
+   "summary_ar": "تحديد التزامات الأمن السيبراني الواردة في الاتفاقيات والالتزامات الدولية المعتمدة وطنيًا والالتزام بها.",
+   "page": 19
+  },
+  {
+   "id": "1-8-1",
+   "subdomain": "1-8",
+   "summary_en": "Periodically review how the entity implements its cybersecurity controls.",
+   "summary_ar": "المراجعة الدورية لتطبيق الجهة لضوابط الأمن السيبراني.",
+   "page": 19
+  },
+  {
+   "id": "1-8-2",
+   "subdomain": "1-8",
+   "summary_en": "Audit and review cybersecurity independently, keeping the reviewer free of conflict of interest.",
+   "summary_ar": "تدقيق الأمن السيبراني ومراجعته باستقلالية مع خلو المدقق من تعارض المصالح.",
+   "page": 20
+  },
+  {
+   "id": "1-8-3",
+   "subdomain": "1-8",
+   "summary_en": "Document audit results with scope, findings, recommendations and corrective actions, and report them to the authorized official.",
+   "summary_ar": "توثيق نتائج التدقيق مع النطاق والملاحظات والتوصيات والإجراءات التصحيحية ورفعها للرئيس المخوّل.",
+   "page": 20
+  },
+  {
+   "id": "1-9-1",
+   "subdomain": "1-9",
+   "summary_en": "Define and approve personnel cybersecurity requirements for before, during and after employment.",
+   "summary_ar": "تحديد متطلبات الأمن السيبراني للعاملين واعتمادها قبل التوظيف وأثناءه وبعد انتهائه.",
+   "page": 20
+  },
+  {
+   "id": "1-9-2",
+   "subdomain": "1-9",
+   "summary_en": "Implement the personnel cybersecurity requirements.",
+   "summary_ar": "تطبيق متطلبات الأمن السيبراني الخاصة بالعاملين.",
+   "page": 20
+  },
+  {
+   "id": "1-9-3",
+   "subdomain": "1-9",
+   "summary_en": "Screen candidates and include confidentiality and non-disclosure clauses in their contracts.",
+   "summary_ar": "فحص المرشحين وتضمين بنود السرية وعدم الإفشاء في عقودهم.",
+   "page": 20
+  },
+  {
+   "id": "1-9-4",
+   "subdomain": "1-9",
+   "summary_en": "Cover cybersecurity at onboarding and during employment, including awareness.",
+   "summary_ar": "تغطية الأمن السيبراني عند الالتحاق وأثناء الخدمة بما في ذلك التوعية.",
+   "page": 20
+  },
+  {
+   "id": "1-9-5",
+   "subdomain": "1-9",
+   "summary_en": "Handle access rights and assets securely at the end or termination of employment.",
+   "summary_ar": "التعامل الآمن مع الصلاحيات والأصول عند انتهاء الخدمة أو إنهائها.",
+   "page": 20
+  },
+  {
+   "id": "1-9-6",
+   "subdomain": "1-9",
+   "summary_en": "Review the personnel cybersecurity requirements periodically.",
+   "summary_ar": "مراجعة متطلبات الأمن السيبراني للعاملين دوريًا.",
+   "page": 20
+  },
+  {
+   "id": "1-10-1",
+   "subdomain": "1-10",
+   "summary_en": "Build an awareness program that grows a positive cybersecurity culture and covers threats and risks.",
+   "summary_ar": "بناء برنامج توعية ينمّي ثقافة إيجابية للأمن السيبراني ويغطي التهديدات والمخاطر.",
+   "page": 21
+  },
+  {
+   "id": "1-10-2",
+   "subdomain": "1-10",
+   "summary_en": "Deliver the awareness program across the entity through varied channels.",
+   "summary_ar": "تنفيذ برنامج التوعية في الجهة عبر قنوات متنوعة.",
+   "page": 21
+  },
+  {
+   "id": "1-10-3",
+   "subdomain": "1-10",
+   "summary_en": "Cover essential topics such as secure email use and secure handling of devices and storage media.",
+   "summary_ar": "تغطية موضوعات أساسية مثل الاستخدام الآمن للبريد والتعامل الآمن مع الأجهزة ووسائط التخزين.",
+   "page": 21
+  },
+  {
+   "id": "1-10-4",
+   "subdomain": "1-10",
+   "summary_en": "Give role-specific training to cybersecurity staff and to people in technical and sensitive roles.",
+   "summary_ar": "تقديم تدريب متخصص لكوادر الأمن السيبراني وللعاملين في الأدوار التقنية والحساسة.",
+   "page": 21
+  },
+  {
+   "id": "1-10-5",
+   "subdomain": "1-10",
+   "summary_en": "Review the awareness and training program periodically.",
+   "summary_ar": "مراجعة برنامج التوعية والتدريب دوريًا.",
+   "page": 21
+  },
+  {
+   "id": "2-1-1",
+   "subdomain": "2-1",
+   "summary_en": "Define, document and approve requirements for managing information and technology assets.",
+   "summary_ar": "تحديد متطلبات إدارة الأصول المعلوماتية والتقنية وتوثيقها واعتمادها.",
+   "page": 22
+  },
+  {
+   "id": "2-1-2",
+   "subdomain": "2-1",
+   "summary_en": "Implement the asset management requirements.",
+   "summary_ar": "تطبيق متطلبات إدارة الأصول.",
+   "page": 22
+  },
+  {
+   "id": "2-1-3",
+   "subdomain": "2-1",
+   "summary_en": "Define, document, approve and communicate an acceptable use policy for assets.",
+   "summary_ar": "تحديد سياسة للاستخدام المقبول للأصول وتوثيقها واعتمادها ونشرها.",
+   "page": 22
+  },
+  {
+   "id": "2-1-4",
+   "subdomain": "2-1",
+   "summary_en": "Implement the acceptable use policy for assets.",
+   "summary_ar": "تطبيق سياسة الاستخدام المقبول للأصول.",
+   "page": 22
+  },
+  {
+   "id": "2-1-5",
+   "subdomain": "2-1",
+   "summary_en": "Classify, label and handle assets in line with legal and regulatory requirements.",
+   "summary_ar": "تصنيف الأصول ووسمها والتعامل معها بما يتوافق مع المتطلبات التشريعية والتنظيمية.",
+   "page": 22
+  },
+  {
+   "id": "2-1-6",
+   "subdomain": "2-1",
+   "summary_en": "Review the asset management requirements periodically.",
+   "summary_ar": "مراجعة متطلبات إدارة الأصول دوريًا.",
+   "page": 22
+  },
+  {
+   "id": "2-2-1",
+   "subdomain": "2-2",
+   "summary_en": "Define, document and approve identity and access management requirements.",
+   "summary_ar": "تحديد متطلبات إدارة الهويات والصلاحيات وتوثيقها واعتمادها.",
+   "page": 22
+  },
+  {
+   "id": "2-2-2",
+   "subdomain": "2-2",
+   "summary_en": "Implement the identity and access management requirements.",
+   "summary_ar": "تطبيق متطلبات إدارة الهويات والصلاحيات.",
+   "page": 22
+  },
+  {
+   "id": "2-2-3",
+   "subdomain": "2-2",
+   "summary_en": "Cover essentials such as multifactor authentication, least privilege and periodic review of access rights.",
+   "summary_ar": "تغطية أساسيات مثل التحقق متعدد العناصر ومبدأ الحد الأدنى من الصلاحيات والمراجعة الدورية لحقوق الوصول.",
+   "page": 22
+  },
+  {
+   "id": "2-2-4",
+   "subdomain": "2-2",
+   "summary_en": "Review the identity and access management requirements periodically.",
+   "summary_ar": "مراجعة متطلبات إدارة الهويات والصلاحيات دوريًا.",
+   "page": 23
+  },
+  {
+   "id": "2-3-1",
+   "subdomain": "2-3",
+   "summary_en": "Define, document and approve requirements to protect information systems and processing facilities.",
+   "summary_ar": "تحديد متطلبات حماية أنظمة المعلومات ومرافق معالجتها وتوثيقها واعتمادها.",
+   "page": 23
+  },
+  {
+   "id": "2-3-2",
+   "subdomain": "2-3",
+   "summary_en": "Implement the protection requirements for systems and processing facilities.",
+   "summary_ar": "تطبيق متطلبات حماية الأنظمة ومرافق المعالجة.",
+   "page": 23
+  },
+  {
+   "id": "2-3-3",
+   "subdomain": "2-3",
+   "summary_en": "Cover essentials such as advanced malware protection on workstations and servers, patching and secure hardening.",
+   "summary_ar": "تغطية أساسيات مثل الحماية المتقدمة من البرمجيات الخبيثة على محطات العمل والخوادم والتحديثات والتحصين الآمن.",
+   "page": 23
+  },
+  {
+   "id": "2-3-4",
+   "subdomain": "2-3",
+   "summary_en": "Review the systems and processing facilities protection requirements periodically.",
+   "summary_ar": "مراجعة متطلبات حماية الأنظمة ومرافق المعالجة دوريًا.",
+   "page": 23
+  },
+  {
+   "id": "2-4-1",
+   "subdomain": "2-4",
+   "summary_en": "Define, document and approve email protection requirements.",
+   "summary_ar": "تحديد متطلبات حماية البريد الإلكتروني وتوثيقها واعتمادها.",
+   "page": 24
+  },
+  {
+   "id": "2-4-2",
+   "subdomain": "2-4",
+   "summary_en": "Implement the email protection requirements.",
+   "summary_ar": "تطبيق متطلبات حماية البريد الإلكتروني.",
+   "page": 24
+  },
+  {
+   "id": "2-4-3",
+   "subdomain": "2-4",
+   "summary_en": "Cover essentials such as filtering phishing and spam, advanced protection, multifactor access and email authentication.",
+   "summary_ar": "تغطية أساسيات مثل ترشيح رسائل التصيد والرسائل غير المرغوبة والحماية المتقدمة والتحقق متعدد العناصر للوصول والمصادقة على البريد.",
+   "page": 24
+  },
+  {
+   "id": "2-4-4",
+   "subdomain": "2-4",
+   "summary_en": "Review the email protection requirements periodically.",
+   "summary_ar": "مراجعة متطلبات حماية البريد الإلكتروني دوريًا.",
+   "page": 24
+  },
+  {
+   "id": "2-5-1",
+   "subdomain": "2-5",
+   "summary_en": "Define, document and approve network security management requirements.",
+   "summary_ar": "تحديد متطلبات إدارة أمن الشبكات وتوثيقها واعتمادها.",
+   "page": 24
+  },
+  {
+   "id": "2-5-2",
+   "subdomain": "2-5",
+   "summary_en": "Implement the network security requirements.",
+   "summary_ar": "تطبيق متطلبات أمن الشبكات.",
+   "page": 24
+  },
+  {
+   "id": "2-5-3",
+   "subdomain": "2-5",
+   "summary_en": "Cover essentials such as network segmentation, boundary protection and filtering, and secure management of network devices.",
+   "summary_ar": "تغطية أساسيات مثل تجزئة الشبكة وحماية الحدود وترشيحها والإدارة الآمنة لأجهزة الشبكة.",
+   "page": 24
+  },
+  {
+   "id": "2-5-4",
+   "subdomain": "2-5",
+   "summary_en": "Review the network security requirements periodically.",
+   "summary_ar": "مراجعة متطلبات أمن الشبكات دوريًا.",
+   "page": 25
+  },
+  {
+   "id": "2-6-1",
+   "subdomain": "2-6",
+   "summary_en": "Define, document and approve mobile device and bring your own device security requirements.",
+   "summary_ar": "تحديد متطلبات أمن الأجهزة المحمولة والأجهزة الشخصية وتوثيقها واعتمادها.",
+   "page": 25
+  },
+  {
+   "id": "2-6-2",
+   "subdomain": "2-6",
+   "summary_en": "Implement the mobile device and personal device requirements.",
+   "summary_ar": "تطبيق متطلبات أمن الأجهزة المحمولة والأجهزة الشخصية.",
+   "page": 25
+  },
+  {
+   "id": "2-6-3",
+   "subdomain": "2-6",
+   "summary_en": "Cover essentials such as separating work data, encryption and secure wipe on loss or end of use.",
+   "summary_ar": "تغطية أساسيات مثل فصل بيانات العمل والتشفير والمسح الآمن عند الفقد أو انتهاء الاستخدام.",
+   "page": 25
+  },
+  {
+   "id": "2-6-4",
+   "subdomain": "2-6",
+   "summary_en": "Review the mobile and personal device requirements periodically.",
+   "summary_ar": "مراجعة متطلبات أمن الأجهزة المحمولة والأجهزة الشخصية دوريًا.",
+   "page": 26
+  },
+  {
+   "id": "2-7-1",
+   "subdomain": "2-7",
+   "summary_en": "Define, document and approve data and information protection requirements per legal and regulatory requirements.",
+   "summary_ar": "تحديد متطلبات حماية البيانات والمعلومات وتوثيقها واعتمادها بما يتوافق مع المتطلبات التشريعية والتنظيمية.",
+   "page": 26
+  },
+  {
+   "id": "2-7-2",
+   "subdomain": "2-7",
+   "summary_en": "Implement data and information protection based on the classification level.",
+   "summary_ar": "تطبيق حماية البيانات والمعلومات بحسب مستوى التصنيف.",
+   "page": 26
+  },
+  {
+   "id": "2-7-3",
+   "subdomain": "2-7",
+   "summary_en": "Review the data and information protection requirements periodically.",
+   "summary_ar": "مراجعة متطلبات حماية البيانات والمعلومات دوريًا.",
+   "page": 26
+  },
+  {
+   "id": "2-8-1",
+   "subdomain": "2-8",
+   "summary_en": "Define, document and approve cryptography requirements.",
+   "summary_ar": "تحديد متطلبات التشفير وتوثيقها واعتمادها.",
+   "page": 26
+  },
+  {
+   "id": "2-8-2",
+   "subdomain": "2-8",
+   "summary_en": "Implement the cryptography requirements in line with the National Cryptographic Standards.",
+   "summary_ar": "تطبيق متطلبات التشفير بما يتوافق مع المعايير الوطنية للتشفير.",
+   "page": 26
+  },
+  {
+   "id": "2-8-3",
+   "subdomain": "2-8",
+   "summary_en": "Apply the cryptographic level suited to sensitivity and manage keys safely across their lifecycle.",
+   "summary_ar": "تطبيق مستوى التشفير المناسب للحساسية وإدارة المفاتيح بأمان طوال دورة حياتها.",
+   "page": 26
+  },
+  {
+   "id": "2-8-4",
+   "subdomain": "2-8",
+   "summary_en": "Review the cryptography requirements periodically.",
+   "summary_ar": "مراجعة متطلبات التشفير دوريًا.",
+   "page": 27
+  },
+  {
+   "id": "2-9-1",
+   "subdomain": "2-9",
+   "summary_en": "Define, document and approve backup and recovery requirements.",
+   "summary_ar": "تحديد متطلبات النسخ الاحتياطي والاسترجاع وتوثيقها واعتمادها.",
+   "page": 27
+  },
+  {
+   "id": "2-9-2",
+   "subdomain": "2-9",
+   "summary_en": "Implement the backup and recovery requirements.",
+   "summary_ar": "تطبيق متطلبات النسخ الاحتياطي والاسترجاع.",
+   "page": 27
+  },
+  {
+   "id": "2-9-3",
+   "subdomain": "2-9",
+   "summary_en": "Cover essentials such as backing up critical assets, secure storage and periodic recovery testing.",
+   "summary_ar": "تغطية أساسيات مثل نسخ الأصول الحرجة احتياطيًا والتخزين الآمن واختبار الاسترجاع دوريًا.",
+   "page": 27
+  },
+  {
+   "id": "2-9-4",
+   "subdomain": "2-9",
+   "summary_en": "Review the backup and recovery requirements periodically.",
+   "summary_ar": "مراجعة متطلبات النسخ الاحتياطي والاسترجاع دوريًا.",
+   "page": 27
+  },
+  {
+   "id": "2-10-1",
+   "subdomain": "2-10",
+   "summary_en": "Define, document and approve technical vulnerability management requirements.",
+   "summary_ar": "تحديد متطلبات إدارة الثغرات التقنية وتوثيقها واعتمادها.",
+   "page": 27
+  },
+  {
+   "id": "2-10-2",
+   "subdomain": "2-10",
+   "summary_en": "Implement the vulnerability management requirements.",
+   "summary_ar": "تطبيق متطلبات إدارة الثغرات.",
+   "page": 27
+  },
+  {
+   "id": "2-10-3",
+   "subdomain": "2-10",
+   "summary_en": "Cover essentials such as periodic vulnerability assessment, prompt remediation and patch management.",
+   "summary_ar": "تغطية أساسيات مثل التقييم الدوري للثغرات والمعالجة السريعة وإدارة التحديثات.",
+   "page": 28
+  },
+  {
+   "id": "2-10-4",
+   "subdomain": "2-10",
+   "summary_en": "Review the vulnerability management requirements periodically.",
+   "summary_ar": "مراجعة متطلبات إدارة الثغرات دوريًا.",
+   "page": 28
+  },
+  {
+   "id": "2-11-1",
+   "subdomain": "2-11",
+   "summary_en": "Define, document and approve penetration testing requirements.",
+   "summary_ar": "تحديد متطلبات اختبار الاختراق وتوثيقها واعتمادها.",
+   "page": 28
+  },
+  {
+   "id": "2-11-2",
+   "subdomain": "2-11",
+   "summary_en": "Implement the penetration testing requirements.",
+   "summary_ar": "تطبيق متطلبات اختبار الاختراق.",
+   "page": 28
+  },
+  {
+   "id": "2-11-3",
+   "subdomain": "2-11",
+   "summary_en": "Cover essentials such as testing all externally exposed services and testing on a periodic basis.",
+   "summary_ar": "تغطية أساسيات مثل اختبار جميع الخدمات المتاحة خارجيًا والاختبار على أساس دوري.",
+   "page": 28
+  },
+  {
+   "id": "2-11-4",
+   "subdomain": "2-11",
+   "summary_en": "Review the penetration testing requirements periodically.",
+   "summary_ar": "مراجعة متطلبات اختبار الاختراق دوريًا.",
+   "page": 28
+  },
+  {
+   "id": "2-12-1",
+   "subdomain": "2-12",
+   "summary_en": "Define, document and approve event logging and monitoring requirements.",
+   "summary_ar": "تحديد متطلبات سجلات الأحداث والمراقبة وتوثيقها واعتمادها.",
+   "page": 29
+  },
+  {
+   "id": "2-12-2",
+   "subdomain": "2-12",
+   "summary_en": "Implement the event logging and monitoring requirements.",
+   "summary_ar": "تطبيق متطلبات سجلات الأحداث والمراقبة.",
+   "page": 29
+  },
+  {
+   "id": "2-12-3",
+   "subdomain": "2-12",
+   "summary_en": "Cover essentials such as logging for critical assets, protecting the logs and continuous monitoring.",
+   "summary_ar": "تغطية أساسيات مثل تفعيل السجلات للأصول الحرجة وحماية السجلات والمراقبة المستمرة.",
+   "page": 29
+  },
+  {
+   "id": "2-12-4",
+   "subdomain": "2-12",
+   "summary_en": "Review the event logging and monitoring requirements periodically.",
+   "summary_ar": "مراجعة متطلبات سجلات الأحداث والمراقبة دوريًا.",
+   "page": 29
+  },
+  {
+   "id": "2-13-1",
+   "subdomain": "2-13",
+   "summary_en": "Define, document and approve cybersecurity incident and threat management requirements.",
+   "summary_ar": "تحديد متطلبات إدارة حوادث الأمن السيبراني وتهديداته وتوثيقها واعتمادها.",
+   "page": 29
+  },
+  {
+   "id": "2-13-2",
+   "subdomain": "2-13",
+   "summary_en": "Implement the incident and threat management requirements.",
+   "summary_ar": "تطبيق متطلبات إدارة الحوادث والتهديدات.",
+   "page": 29
+  },
+  {
+   "id": "2-13-3",
+   "subdomain": "2-13",
+   "summary_en": "Cover essentials such as incident response and escalation plans and use of threat intelligence.",
+   "summary_ar": "تغطية أساسيات مثل خطط الاستجابة للحوادث والتصعيد والاستفادة من معلومات التهديدات.",
+   "page": 30
+  },
+  {
+   "id": "2-13-4",
+   "subdomain": "2-13",
+   "summary_en": "Review the incident and threat management requirements periodically.",
+   "summary_ar": "مراجعة متطلبات إدارة الحوادث والتهديدات دوريًا.",
+   "page": 30
+  },
+  {
+   "id": "2-14-1",
+   "subdomain": "2-14",
+   "summary_en": "Define, document and approve physical security requirements against unauthorized access, loss, theft and damage.",
+   "summary_ar": "تحديد متطلبات الأمن المادي ضد الوصول غير المصرح به والفقد والسرقة والتلف وتوثيقها واعتمادها.",
+   "page": 30
+  },
+  {
+   "id": "2-14-2",
+   "subdomain": "2-14",
+   "summary_en": "Implement the physical security requirements.",
+   "summary_ar": "تطبيق متطلبات الأمن المادي.",
+   "page": 30
+  },
+  {
+   "id": "2-14-3",
+   "subdomain": "2-14",
+   "summary_en": "Cover essentials such as controlling access to critical areas and monitoring and logging entry.",
+   "summary_ar": "تغطية أساسيات مثل التحكم في الوصول إلى المناطق الحرجة ومراقبة الدخول وتسجيله.",
+   "page": 30
+  },
+  {
+   "id": "2-14-4",
+   "subdomain": "2-14",
+   "summary_en": "Review the physical security requirements periodically.",
+   "summary_ar": "مراجعة متطلبات الأمن المادي دوريًا.",
+   "page": 30
+  },
+  {
+   "id": "2-15-1",
+   "subdomain": "2-15",
+   "summary_en": "Define, document and approve protection requirements for external web applications.",
+   "summary_ar": "تحديد متطلبات حماية تطبيقات الويب الخارجية وتوثيقها واعتمادها.",
+   "page": 31
+  },
+  {
+   "id": "2-15-2",
+   "subdomain": "2-15",
+   "summary_en": "Implement the web application protection requirements.",
+   "summary_ar": "تطبيق متطلبات حماية تطبيقات الويب.",
+   "page": 31
+  },
+  {
+   "id": "2-15-3",
+   "subdomain": "2-15",
+   "summary_en": "Cover essentials such as a web application firewall, secure development and multi-tier protection.",
+   "summary_ar": "تغطية أساسيات مثل جدار حماية تطبيقات الويب والتطوير الآمن والحماية متعددة الطبقات.",
+   "page": 31
+  },
+  {
+   "id": "2-15-4",
+   "subdomain": "2-15",
+   "summary_en": "Review the web application protection requirements periodically.",
+   "summary_ar": "مراجعة متطلبات حماية تطبيقات الويب دوريًا.",
+   "page": 31
+  },
+  {
+   "id": "3-1-1",
+   "subdomain": "3-1",
+   "summary_en": "Define, document and approve cybersecurity requirements for business continuity management.",
+   "summary_ar": "تحديد متطلبات الأمن السيبراني في إدارة استمرارية الأعمال وتوثيقها واعتمادها.",
+   "page": 32
+  },
+  {
+   "id": "3-1-2",
+   "subdomain": "3-1",
+   "summary_en": "Implement the business continuity cybersecurity requirements.",
+   "summary_ar": "تطبيق متطلبات الأمن السيبراني في إدارة استمرارية الأعمال.",
+   "page": 32
+  },
+  {
+   "id": "3-1-3",
+   "subdomain": "3-1",
+   "summary_en": "Cover essentials such as keeping cybersecurity systems and procedures running, incident response continuity and disaster recovery plans.",
+   "summary_ar": "تغطية أساسيات مثل استمرار عمل أنظمة الأمن السيبراني وإجراءاته واستمرارية الاستجابة للحوادث وخطط التعافي من الكوارث.",
+   "page": 32
+  },
+  {
+   "id": "3-1-4",
+   "subdomain": "3-1",
+   "summary_en": "Review the business continuity cybersecurity requirements periodically.",
+   "summary_ar": "مراجعة متطلبات الأمن السيبراني في إدارة استمرارية الأعمال دوريًا.",
+   "page": 32
+  },
+  {
+   "id": "4-1-1",
+   "subdomain": "4-1",
+   "summary_en": "Define, document and approve third-party cybersecurity requirements, including contracts and service level agreements.",
+   "summary_ar": "تحديد متطلبات الأمن السيبراني للأطراف الخارجية وتوثيقها واعتمادها بما في ذلك العقود واتفاقيات مستوى الخدمة.",
+   "page": 33
+  },
+  {
+   "id": "4-1-2",
+   "subdomain": "4-1",
+   "summary_en": "Cover contract essentials such as non-disclosure clauses and secure removal of the entity's data at the end of service.",
+   "summary_ar": "تغطية أساسيات العقود مثل بنود عدم الإفشاء والإزالة الآمنة لبيانات الجهة عند انتهاء الخدمة.",
+   "page": 33
+  },
+  {
+   "id": "4-1-3",
+   "subdomain": "4-1",
+   "summary_en": "Assess third-party cybersecurity risk and ensure mitigating controls before signing, with extra care for outsourcing and managed services.",
+   "summary_ar": "تقييم مخاطر الأمن السيبراني للأطراف الخارجية وضمان وجود ضوابط للمعالجة قبل التوقيع مع عناية إضافية للإسناد والخدمات المدارة.",
+   "page": 33
+  },
+  {
+   "id": "4-1-4",
+   "subdomain": "4-1",
+   "summary_en": "Review the third-party cybersecurity requirements periodically.",
+   "summary_ar": "مراجعة متطلبات الأمن السيبراني للأطراف الخارجية دوريًا.",
+   "page": 33
+  },
+  {
+   "id": "4-2-1",
+   "subdomain": "4-2",
+   "summary_en": "Define, document and approve cybersecurity requirements for using cloud computing and hosting services.",
+   "summary_ar": "تحديد متطلبات الأمن السيبراني لاستخدام خدمات الحوسبة السحابية والاستضافة وتوثيقها واعتمادها.",
+   "page": 34
+  },
+  {
+   "id": "4-2-2",
+   "subdomain": "4-2",
+   "summary_en": "Implement the cloud and hosting cybersecurity requirements in line with legal and regulatory requirements.",
+   "summary_ar": "تطبيق متطلبات الأمن السيبراني للحوسبة السحابية والاستضافة بما يتوافق مع المتطلبات التشريعية والتنظيمية.",
+   "page": 34
+  },
+  {
+   "id": "4-2-3",
+   "subdomain": "4-2",
+   "summary_en": "Cover essentials such as protecting and locating the entity's data with the provider and separating the entity's environment.",
+   "summary_ar": "تغطية أساسيات مثل حماية بيانات الجهة وموقعها لدى مزود الخدمة وفصل بيئة الجهة.",
+   "page": 34
+  },
+  {
+   "id": "4-2-4",
+   "subdomain": "4-2",
+   "summary_en": "Review the cloud computing and hosting cybersecurity requirements periodically.",
+   "summary_ar": "مراجعة متطلبات الأمن السيبراني للحوسبة السحابية والاستضافة دوريًا.",
+   "page": 34
+  }
+ ]
+}

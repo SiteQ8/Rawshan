@@ -1,0 +1,24 @@
+{
+  "domains": [
+    {
+      "id": "1",
+      "title_en": "Cybersecurity Governance",
+      "title_ar": "حوكمة الأمن السيبراني"
+    },
+    {
+      "id": "2",
+      "title_en": "Cybersecurity Defense",
+      "title_ar": "تعزيز الأمن السيبراني"
+    },
+    {
+      "id": "3",
+      "title_en": "Cybersecurity Resilience",
+      "title_ar": "صمود الأمن السيبراني"
+    },
+    {
+      "id": "4",
+      "title_en": "Third-Party and Cloud Computing Cybersecurity",
+      "title_ar": "الأمن السيبراني المتعلق بالأطراف الخارجية والحوسبة السحابية"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schema": "ecc-register/1",
+  "name_en": "Rawshan",
+  "name_ar": "روشن",
+  "owner": "SiteQ8",
+  "repo": "Rawshan",
+  "slug": "rawshan",
+  "domain": "rawshan.3li.info",
+  "version": "1.0.0",
+  "tagline_en": "A working register for Saudi Arabia's NCA Essential Cybersecurity Controls",
+  "tagline_ar": "سجل عملي لضوابط الأمن السيبراني الأساسية الصادرة عن الهيئة الوطنية للأمن السيبراني",
+  "framework_id": "ecc",
+  "framework_version": "ECC-2:2024"
+}

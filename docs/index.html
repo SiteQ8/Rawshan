@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
+<title>روشن | سجل عمل للضوابط الأساسية للأمن السيبراني في المملكة العربية السعودية</title>
+<meta name="description" content="A working register for Saudi Arabia's NCA Essential Cybersecurity Controls (ECC-2:2024), with an ISO 27001 and NIST CSF 2.0 crosswalk, the PDPL obligations beside it, and an MCP server for AI agents.">
+<meta name="theme-color" content="#0b5d2e">
+<link rel="canonical" href="https://rawshan.3li.info/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Rawshan">
+<meta property="og:title" content="Rawshan | روشن">
+<meta property="og:description" content="A working register for Saudi Arabia's NCA Essential Cybersecurity Controls, in Arabic and English.">
+<meta property="og:url" content="https://rawshan.3li.info/">
+<meta property="og:image" content="https://rawshan.3li.info/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="ar_SA">
+<meta property="og:locale:alternate" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/fonts.css">
+<link rel="stylesheet" href="assets/styles.css">
+<script type="module" src="assets/app.js"></script>
+</head>
+<body class="loading">
+<a id="skip" class="skip" href="#main">انتقل إلى المحتوى</a>
+<div class="merlons" aria-hidden="true"></div>
+<div class="page">
+  <header class="masthead">
+    <div class="brand">
+      <svg class="mark" viewBox="0 0 64 64" aria-hidden="true">
+        <rect width="64" height="64" rx="14" fill="#0b5d2e"/>
+        <g fill="none" stroke="#fffdf8" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round" opacity="0.94">
+          <path d="M18 52 L18 28 Q18 15 32 10 Q46 15 46 28 L46 52 Z"/>
+          <line x1="32" y1="12" x2="32" y2="52"/>
+          <line x1="18" y1="32" x2="46" y2="32"/>
+          <line x1="18" y1="42" x2="46" y2="42"/>
+          <path d="M25 20 Q32 16 39 20" opacity="0.7"/>
+        </g>
+      </svg>
+      <div>
+        <div class="names"><h1 id="app-name">روشن</h1><span id="alt-name" class="alt-name" lang="en">Rawshan</span></div>
+        <p id="tagline">سجل عمل للضوابط الأساسية للأمن السيبراني في المملكة العربية السعودية</p>
+      </div>
+    </div>
+    <div class="mast-side">
+      <div class="mast-controls">
+        <button type="button" id="theme-toggle" class="icon-btn" aria-label="تبديل المظهر" title="تبديل المظهر"></button>
+        <button type="button" id="lang-toggle" class="lang-btn" lang="en">English</button>
+      </div>
+      <p id="source-line" class="source-line">مبني على الضوابط الأساسية للأمن السيبراني ECC-2 لعام 2024 الصادرة عن الهيئة الوطنية للأمن السيبراني</p>
+    </div>
+  </header>
+  <section class="tabbar" id="tabbar">
+    <div class="tabbar-in">
+      <div class="tabs" id="tabs" role="tablist" aria-label="الأقسام">
+        <button type="button" role="tab" id="tab-register" aria-controls="panel-register" aria-selected="true" data-tab="register">السجل</button>
+        <button type="button" role="tab" id="tab-applicability" aria-controls="panel-applicability" aria-selected="false" tabindex="-1" data-tab="applicability">قابلية التطبيق</button>
+        <button type="button" role="tab" id="tab-crosswalk" aria-controls="panel-crosswalk" aria-selected="false" tabindex="-1" data-tab="crosswalk">المقابلة</button>
+        <button type="button" role="tab" id="tab-pdpl" aria-controls="panel-pdpl" aria-selected="false" tabindex="-1" data-tab="pdpl">حماية البيانات</button>
+        <button type="button" role="tab" id="tab-report" aria-controls="panel-report" aria-selected="false" tabindex="-1" data-tab="report">التقرير</button>
+        <button type="button" role="tab" id="tab-about" aria-controls="panel-about" aria-selected="false" tabindex="-1" data-tab="about">عن الأداة</button>
+      </div>
+      <div id="mini" class="mini" aria-live="polite"></div>
+    </div>
+  </section>
+  <main id="main" class="main" tabindex="-1">
+    <section id="panel-register" role="tabpanel" aria-labelledby="tab-register">
+      <div id="summary" class="summary"></div>
+      <div class="reg">
+        <nav id="dindex" class="dindex"></nav>
+        <div class="register">
+          <div id="rtools" class="rtools"></div>
+          <div id="rows"></div>
+          <p id="empty" class="empty" hidden></p>
+        </div>
+      </div>
+    </section>
+    <section id="panel-applicability" role="tabpanel" aria-labelledby="tab-applicability" hidden></section>
+    <section id="panel-crosswalk" role="tabpanel" aria-labelledby="tab-crosswalk" hidden>
+      <div id="cw-shell"></div>
+      <div id="cw-list" class="cw-list"></div>
+    </section>
+    <section id="panel-pdpl" role="tabpanel" aria-labelledby="tab-pdpl" hidden></section>
+    <section id="panel-report" role="tabpanel" aria-labelledby="tab-report" hidden></section>
+    <section id="panel-about" role="tabpanel" aria-labelledby="tab-about" hidden></section>
+    <p id="boot-error" class="boot-error" hidden>تعذر تحميل البيانات لذا أعد تحميل الصفحة. The data could not be loaded, so reload the page.</p>
+    <noscript><p class="boot-error">تعمل هذه الأداة داخل المتصفح وتحتاج إلى تفعيل JavaScript. This tool runs in the browser and needs JavaScript.</p></noscript>
+  </main>
+  <footer class="foot"><span id="footer-license"></span><span class="foot-links"><a id="footer-code" href="#"></a><span id="footer-ver"></span></span></footer>
+</div>
+<div id="flash" class="flash" role="status" aria-live="polite" hidden></div>
+</body>
+</html>

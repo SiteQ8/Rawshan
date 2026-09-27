@@ -1,0 +1,64 @@
+{
+  "obligations": [
+    {
+      "id": "basis",
+      "en": "Have a lawful basis and a specific purpose before collecting personal data.",
+      "ar": "وجود أساس نظامي وغرض محدد قبل جمع البيانات الشخصية."
+    },
+    {
+      "id": "consent",
+      "en": "Obtain the data subject's consent where the law requires it, and let them withdraw it.",
+      "ar": "الحصول على موافقة صاحب البيانات متى تطلب النظام ذلك مع تمكينه من سحبها."
+    },
+    {
+      "id": "notice",
+      "en": "Give a clear privacy notice about what is collected and why.",
+      "ar": "تقديم إشعار خصوصية واضح عما يُجمع وأسباب ذلك."
+    },
+    {
+      "id": "rights",
+      "en": "Honor data subject rights to access, correct and destroy their data.",
+      "ar": "احترام حقوق صاحب البيانات في الوصول إليها وتصحيحها وإتلافها."
+    },
+    {
+      "id": "minimize",
+      "en": "Collect the minimum data needed and keep it accurate and up to date.",
+      "ar": "جمع الحد الأدنى من البيانات اللازمة وإبقاؤها دقيقة ومحدّثة."
+    },
+    {
+      "id": "retention",
+      "en": "Keep personal data no longer than the purpose requires.",
+      "ar": "عدم الاحتفاظ بالبيانات الشخصية أطول مما يتطلبه الغرض."
+    },
+    {
+      "id": "security",
+      "en": "Protect personal data with appropriate security safeguards.",
+      "ar": "حماية البيانات الشخصية بضمانات أمنية مناسبة."
+    },
+    {
+      "id": "breach",
+      "en": "Notify the competent authority and affected people of a personal data breach.",
+      "ar": "إبلاغ الجهة المختصة والمتأثرين عند وقوع تسرب للبيانات الشخصية."
+    },
+    {
+      "id": "records",
+      "en": "Keep records of personal data processing activities.",
+      "ar": "الاحتفاظ بسجلات لأنشطة معالجة البيانات الشخصية."
+    },
+    {
+      "id": "transfer",
+      "en": "Follow the rules before transferring personal data outside the Kingdom.",
+      "ar": "الالتزام بالضوابط قبل نقل البيانات الشخصية خارج المملكة."
+    },
+    {
+      "id": "processor",
+      "en": "Bind third-party processors to protect the personal data they handle.",
+      "ar": "إلزام الأطراف المعالِجة بحماية البيانات الشخصية التي تتعامل معها."
+    },
+    {
+      "id": "sensitive",
+      "en": "Apply extra care to sensitive personal data.",
+      "ar": "إيلاء عناية إضافية للبيانات الشخصية الحساسة."
+    }
+  ]
+}

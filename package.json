@@ -1,0 +1,22 @@
+{
+  "name": "rawshan",
+  "version": "1.0.0",
+  "description": "A working register for Saudi Arabia's NCA Essential Cybersecurity Controls (ECC-2:2024), with an ISO 27001 and NIST CSF 2.0 crosswalk, the PDPL obligations and an MCP server.",
+  "type": "module",
+  "bin": { "rawshan": "mcp/server.mjs" },
+  "files": ["mcp/", "docs/assets/core.js", "docs/data/bundle.json", "README.md", "LICENSE", "NOTICE.md"],
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/build.mjs --check",
+    "test": "node --test test/*.test.mjs",
+    "preflight": "node scripts/preflight.mjs",
+    "mcp": "node mcp/server.mjs",
+    "selftest": "node mcp/server.mjs --selftest"
+  },
+  "engines": { "node": ">=18" },
+  "keywords": ["saudi-arabia", "nca", "ecc", "essential-cybersecurity-controls", "compliance", "iso27001", "nist-csf", "pdpl", "mcp", "arabic"],
+  "author": "Ali AlEnezi",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/SiteQ8/Rawshan.git" },
+  "homepage": "https://rawshan.3li.info"
+}

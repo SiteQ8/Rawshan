@@ -1,0 +1,1907 @@
+{
+ "schema": "ecc-register/1",
+ "project": {
+  "schema": "ecc-register/1",
+  "name_en": "Rawshan",
+  "name_ar": "روشن",
+  "owner": "SiteQ8",
+  "repo": "Rawshan",
+  "slug": "rawshan",
+  "domain": "rawshan.3li.info",
+  "version": "1.0.0",
+  "tagline_en": "A working register for Saudi Arabia's NCA Essential Cybersecurity Controls",
+  "tagline_ar": "سجل عملي لضوابط الأمن السيبراني الأساسية الصادرة عن الهيئة الوطنية للأمن السيبراني",
+  "framework_id": "ecc",
+  "framework_version": "ECC-2:2024"
+ },
+ "generated": "2026-09-27",
+ "counts": {
+  "domains": 4,
+  "subdomains": 28,
+  "controls": 108
+ },
+ "domains": [
+  {
+   "id": "1",
+   "title_en": "Cybersecurity Governance",
+   "title_ar": "حوكمة الأمن السيبراني"
+  },
+  {
+   "id": "2",
+   "title_en": "Cybersecurity Defense",
+   "title_ar": "تعزيز الأمن السيبراني"
+  },
+  {
+   "id": "3",
+   "title_en": "Cybersecurity Resilience",
+   "title_ar": "صمود الأمن السيبراني"
+  },
+  {
+   "id": "4",
+   "title_en": "Third-Party and Cloud Computing Cybersecurity",
+   "title_ar": "الأمن السيبراني المتعلق بالأطراف الخارجية والحوسبة السحابية"
+  }
+ ],
+ "subdomains": [
+  {
+   "id": "1-1",
+   "domain": "1",
+   "title_en": "Cybersecurity Strategy",
+   "title_ar": "استراتيجية الأمن السيبراني",
+   "objective_en": "Set a cybersecurity strategy whose plans and projects support the entity's compliance with legal and regulatory requirements.",
+   "objective_ar": "وضع استراتيجية للأمن السيبراني تدعم خططها ومشاريعها التزام الجهة بالمتطلبات التشريعية والتنظيمية.",
+   "page": 16
+  },
+  {
+   "id": "1-2",
+   "domain": "1",
+   "title_en": "Cybersecurity Management",
+   "title_ar": "إدارة الأمن السيبراني",
+   "objective_en": "Make sure the authorized official supports running and managing the entity's cybersecurity programs.",
+   "objective_ar": "ضمان دعم الرئيس المخوّل لتنفيذ برامج الأمن السيبراني في الجهة وإدارتها.",
+   "page": 16
+  },
+  {
+   "id": "1-3",
+   "domain": "1",
+   "title_en": "Cybersecurity Policies and Procedures",
+   "title_ar": "سياسات الأمن السيبراني وإجراءاته",
+   "objective_en": "Document the cybersecurity requirements and communicate them so the entity can comply.",
+   "objective_ar": "توثيق متطلبات الأمن السيبراني ونشرها لتتمكن الجهة من الالتزام بها.",
+   "page": 17
+  },
+  {
+   "id": "1-4",
+   "domain": "1",
+   "title_en": "Cybersecurity Roles and Responsibilities",
+   "title_ar": "أدوار الأمن السيبراني ومسؤولياته",
+   "objective_en": "Define clear cybersecurity roles and responsibilities for everyone involved in the controls.",
+   "objective_ar": "تحديد أدوار الأمن السيبراني ومسؤولياته بوضوح لكل من يشارك في تطبيق الضوابط.",
+   "page": 17
+  },
+  {
+   "id": "1-5",
+   "domain": "1",
+   "title_en": "Cybersecurity Risk Management",
+   "title_ar": "إدارة مخاطر الأمن السيبراني",
+   "objective_en": "Manage cybersecurity risks through a defined method that protects the entity's information and technology assets.",
+   "objective_ar": "إدارة مخاطر الأمن السيبراني بمنهجية محددة تحمي أصول الجهة المعلوماتية والتقنية.",
+   "page": 18
+  },
+  {
+   "id": "1-6",
+   "domain": "1",
+   "title_en": "Cybersecurity in Information and Technology Project Management",
+   "title_ar": "الأمن السيبراني في إدارة مشاريع تقنية المعلومات",
+   "objective_en": "Build cybersecurity requirements into technology projects and change management from the start.",
+   "objective_ar": "تضمين متطلبات الأمن السيبراني في مشاريع التقنية وإدارة التغيير منذ البداية.",
+   "page": 18
+  },
+  {
+   "id": "1-7",
+   "domain": "1",
+   "title_en": "Compliance with Cybersecurity Standards, Laws and Regulations",
+   "title_ar": "الالتزام بمعايير الأمن السيبراني وتشريعاته",
+   "objective_en": "Keep the cybersecurity program aligned with the relevant national and international obligations.",
+   "objective_ar": "إبقاء برنامج الأمن السيبراني متوافقًا مع الالتزامات الوطنية والدولية ذات العلاقة.",
+   "page": 19
+  },
+  {
+   "id": "1-8",
+   "domain": "1",
+   "title_en": "Periodical Cybersecurity Review and Audit",
+   "title_ar": "المراجعة والتدقيق الدوري للأمن السيبراني",
+   "objective_en": "Review and audit the cybersecurity controls periodically to confirm they are in place and effective.",
+   "objective_ar": "مراجعة ضوابط الأمن السيبراني وتدقيقها دوريًا للتأكد من تطبيقها وفاعليتها.",
+   "page": 19
+  },
+  {
+   "id": "1-9",
+   "domain": "1",
+   "title_en": "Cybersecurity in Human Resources",
+   "title_ar": "الأمن السيبراني في الموارد البشرية",
+   "objective_en": "Cover cybersecurity before, during and after employment so people do not become a weak point.",
+   "objective_ar": "تغطية الأمن السيبراني قبل التوظيف وأثناءه وبعد انتهائه حتى لا يصبح الأفراد نقطة ضعف.",
+   "page": 20
+  },
+  {
+   "id": "1-10",
+   "domain": "1",
+   "title_en": "Cybersecurity Awareness and Training Program",
+   "title_ar": "برنامج التوعية والتدريب بالأمن السيبراني",
+   "objective_en": "Raise cybersecurity awareness and give staff the training their roles need.",
+   "objective_ar": "رفع الوعي بالأمن السيبراني وتزويد الموظفين بالتدريب الذي تتطلبه أدوارهم.",
+   "page": 21
+  },
+  {
+   "id": "2-1",
+   "domain": "2",
+   "title_en": "Asset Management",
+   "title_ar": "إدارة الأصول",
+   "objective_en": "Keep an accurate inventory of information and technology assets and classify them by importance.",
+   "objective_ar": "الاحتفاظ بجرد دقيق للأصول المعلوماتية والتقنية وتصنيفها بحسب أهميتها.",
+   "page": 22
+  },
+  {
+   "id": "2-2",
+   "domain": "2",
+   "title_en": "Identity and Access Management",
+   "title_ar": "إدارة الهويات والصلاحيات",
+   "objective_en": "Give the right people the right access, verify identity and review privileges over time.",
+   "objective_ar": "منح الأشخاص المناسبين الصلاحيات المناسبة والتحقق من الهوية ومراجعة الصلاحيات مع الوقت.",
+   "page": 22
+  },
+  {
+   "id": "2-3",
+   "domain": "2",
+   "title_en": "Information System and Processing Facilities Protection",
+   "title_ar": "حماية أنظمة المعلومات ومرافق معالجتها",
+   "objective_en": "Harden systems, servers and devices and protect the facilities that process information.",
+   "objective_ar": "تحصين الأنظمة والخوادم والأجهزة وحماية المرافق التي تعالج المعلومات.",
+   "page": 23
+  },
+  {
+   "id": "2-4",
+   "domain": "2",
+   "title_en": "Email Protection",
+   "title_ar": "حماية البريد الإلكتروني",
+   "objective_en": "Protect email against phishing, spoofing and malware and authenticate messages.",
+   "objective_ar": "حماية البريد الإلكتروني من التصيد والانتحال والبرمجيات الخبيثة والمصادقة على الرسائل.",
+   "page": 24
+  },
+  {
+   "id": "2-5",
+   "domain": "2",
+   "title_en": "Networks Security Management",
+   "title_ar": "إدارة أمن الشبكات",
+   "objective_en": "Segment and defend the network and control the traffic that crosses its boundaries.",
+   "objective_ar": "تجزئة الشبكة والدفاع عنها والتحكم في حركة البيانات التي تعبر حدودها.",
+   "page": 24
+  },
+  {
+   "id": "2-6",
+   "domain": "2",
+   "title_en": "Mobile Devices Security",
+   "title_ar": "أمن الأجهزة المحمولة",
+   "objective_en": "Secure mobile devices and remote work, including bring your own device, and protect their data.",
+   "objective_ar": "تأمين الأجهزة المحمولة والعمل عن بعد بما في ذلك الأجهزة الشخصية وحماية بياناتها.",
+   "page": 25
+  },
+  {
+   "id": "2-7",
+   "domain": "2",
+   "title_en": "Data and Information Protection",
+   "title_ar": "حماية البيانات والمعلومات",
+   "objective_en": "Protect data through its lifecycle according to its classification.",
+   "objective_ar": "حماية البيانات طوال دورة حياتها بحسب تصنيفها.",
+   "page": 26
+  },
+  {
+   "id": "2-8",
+   "domain": "2",
+   "title_en": "Cryptography",
+   "title_ar": "التشفير",
+   "objective_en": "Use approved cryptography to protect data and manage keys safely across their lifecycle.",
+   "objective_ar": "استخدام تشفير معتمد لحماية البيانات وإدارة المفاتيح بأمان طوال دورة حياتها.",
+   "page": 26
+  },
+  {
+   "id": "2-9",
+   "domain": "2",
+   "title_en": "Backup and Recovery Management",
+   "title_ar": "إدارة النسخ الاحتياطي والاسترجاع",
+   "objective_en": "Back up critical data and systems and test that they can be restored.",
+   "objective_ar": "إجراء نسخ احتياطي للبيانات والأنظمة الحرجة واختبار القدرة على استرجاعها.",
+   "page": 27
+  },
+  {
+   "id": "2-10",
+   "domain": "2",
+   "title_en": "Vulnerabilities Management",
+   "title_ar": "إدارة الثغرات",
+   "objective_en": "Find, assess and remediate technical vulnerabilities before they are exploited.",
+   "objective_ar": "اكتشاف الثغرات التقنية وتقييمها ومعالجتها قبل استغلالها.",
+   "page": 27
+  },
+  {
+   "id": "2-11",
+   "domain": "2",
+   "title_en": "Penetration Testing",
+   "title_ar": "اختبار الاختراق",
+   "objective_en": "Test defenses through planned penetration testing and fix what it finds.",
+   "objective_ar": "اختبار الدفاعات عبر اختبار اختراق مخطط له ومعالجة ما يكشفه.",
+   "page": 28
+  },
+  {
+   "id": "2-12",
+   "domain": "2",
+   "title_en": "Cybersecurity Event Logs and Monitoring Management",
+   "title_ar": "إدارة سجلات أحداث الأمن السيبراني ومراقبتها",
+   "objective_en": "Collect, protect and monitor security event logs to detect activity early.",
+   "objective_ar": "جمع سجلات أحداث الأمن السيبراني وحمايتها ومراقبتها لاكتشاف النشاط مبكرًا.",
+   "page": 29
+  },
+  {
+   "id": "2-13",
+   "domain": "2",
+   "title_en": "Cybersecurity Incident and Threat Management",
+   "title_ar": "إدارة حوادث وتهديدات الأمن السيبراني",
+   "objective_en": "Detect, handle and learn from cybersecurity incidents and act on threat intelligence.",
+   "objective_ar": "اكتشاف حوادث الأمن السيبراني والتعامل معها والتعلم منها والاستفادة من معلومات التهديدات.",
+   "page": 29
+  },
+  {
+   "id": "2-14",
+   "domain": "2",
+   "title_en": "Physical Security",
+   "title_ar": "الأمن المادي",
+   "objective_en": "Protect facilities and equipment from unauthorized physical access and damage.",
+   "objective_ar": "حماية المرافق والمعدات من الوصول المادي غير المصرح به ومن التلف.",
+   "page": 30
+  },
+  {
+   "id": "2-15",
+   "domain": "2",
+   "title_en": "Web Application Security",
+   "title_ar": "أمن تطبيقات الويب",
+   "objective_en": "Secure external web applications against common attacks throughout their lifecycle.",
+   "objective_ar": "تأمين تطبيقات الويب الخارجية ضد الهجمات الشائعة طوال دورة حياتها.",
+   "page": 31
+  },
+  {
+   "id": "3-1",
+   "domain": "3",
+   "title_en": "Cybersecurity Resilience Aspects of Business Continuity Management (BCM)",
+   "title_ar": "جوانب صمود الأمن السيبراني في إدارة استمرارية الأعمال",
+   "objective_en": "Build cybersecurity resilience into business continuity so cyber events do not stop critical services.",
+   "objective_ar": "تضمين صمود الأمن السيبراني في استمرارية الأعمال حتى لا توقف الأحداث السيبرانية الخدمات الحرجة.",
+   "page": 32
+  },
+  {
+   "id": "4-1",
+   "domain": "4",
+   "title_en": "Third-Party Cybersecurity",
+   "title_ar": "الأمن السيبراني للأطراف الخارجية",
+   "objective_en": "Manage the cybersecurity risk that third parties and outsourcing bring to the entity.",
+   "objective_ar": "إدارة مخاطر الأمن السيبراني التي يجلبها الأطراف الخارجية والإسناد إلى الجهة.",
+   "page": 49
+  },
+  {
+   "id": "4-2",
+   "domain": "4",
+   "title_en": "Cloud Computing and Hosting Cybersecurity",
+   "title_ar": "الأمن السيبراني للحوسبة السحابية والاستضافة",
+   "objective_en": "Set the cybersecurity requirements for using cloud computing and hosting services.",
+   "objective_ar": "تحديد متطلبات الأمن السيبراني لاستخدام خدمات الحوسبة السحابية والاستضافة.",
+   "page": 34
+  }
+ ],
+ "controls": [
+  {
+   "id": "1-1-1",
+   "subdomain": "1-1",
+   "summary_en": "Define, document and approve the cybersecurity strategy, backed by the authorized official and aligned with legal and regulatory requirements.",
+   "summary_ar": "تحديد استراتيجية الأمن السيبراني وتوثيقها واعتمادها بدعم الرئيس المخوّل بما يتوافق مع المتطلبات التشريعية والتنظيمية.",
+   "page": 16
+  },
+  {
+   "id": "1-1-2",
+   "subdomain": "1-1",
+   "summary_en": "Execute an action plan that puts the cybersecurity strategy into effect.",
+   "summary_ar": "تنفيذ خطة عمل تضع استراتيجية الأمن السيبراني موضع التطبيق.",
+   "page": 16
+  },
+  {
+   "id": "1-1-3",
+   "subdomain": "1-1",
+   "summary_en": "Review the strategy at planned intervals or when legal and regulatory requirements change.",
+   "summary_ar": "مراجعة الاستراتيجية على فترات مخططة أو عند تغير المتطلبات التشريعية والتنظيمية.",
+   "page": 16
+  },
+  {
+   "id": "1-2-1",
+   "subdomain": "1-2",
+   "summary_en": "Establish a cybersecurity department that is independent of IT and reports at a suitably high level without conflict of interest.",
+   "summary_ar": "إنشاء إدارة للأمن السيبراني مستقلة عن تقنية المعلومات ترفع تقاريرها لمستوى مناسب دون تعارض في المصالح.",
+   "page": 16
+  },
+  {
+   "id": "1-2-2",
+   "subdomain": "1-2",
+   "summary_en": "Fill cybersecurity positions with full-time, qualified Saudi professionals.",
+   "summary_ar": "شغل وظائف الأمن السيبراني بكوادر سعودية مؤهلة ومتفرغة.",
+   "page": 16
+  },
+  {
+   "id": "1-2-3",
+   "subdomain": "1-2",
+   "summary_en": "Form a cybersecurity supervisory committee with defined members, duties and governance.",
+   "summary_ar": "تشكيل لجنة إشرافية للأمن السيبراني بأعضاء ومهام وحوكمة محددة.",
+   "page": 16
+  },
+  {
+   "id": "1-3-1",
+   "subdomain": "1-3",
+   "summary_en": "Identify, document and approve cybersecurity policies and procedures and communicate them to the relevant people inside the entity.",
+   "summary_ar": "تحديد سياسات الأمن السيبراني وإجراءاته وتوثيقها واعتمادها ونشرها على المعنيين داخل الجهة.",
+   "page": 17
+  },
+  {
+   "id": "1-3-2",
+   "subdomain": "1-3",
+   "summary_en": "Make sure the policies and procedures are actually implemented across the entity.",
+   "summary_ar": "التأكد من تطبيق السياسات والإجراءات فعليًا في جميع أنحاء الجهة.",
+   "page": 17
+  },
+  {
+   "id": "1-3-3",
+   "subdomain": "1-3",
+   "summary_en": "Back the policies with technical security standards for systems and technologies such as firewalls, databases and operating systems.",
+   "summary_ar": "دعم السياسات بمعايير أمنية تقنية للأنظمة والتقنيات مثل جدران الحماية وقواعد البيانات وأنظمة التشغيل.",
+   "page": 17
+  },
+  {
+   "id": "1-3-4",
+   "subdomain": "1-3",
+   "summary_en": "Review and update the policies and procedures at planned intervals or on relevant change, and document and approve the changes.",
+   "summary_ar": "مراجعة السياسات والإجراءات وتحديثها على فترات مخططة أو عند التغيير مع توثيق التغييرات واعتمادها.",
+   "page": 17
+  },
+  {
+   "id": "1-4-1",
+   "subdomain": "1-4",
+   "summary_en": "Define, document and approve the cybersecurity governance structure, roles and responsibilities and assign the people concerned.",
+   "summary_ar": "تحديد هيكل حوكمة الأمن السيبراني وأدواره ومسؤولياته وتوثيقها واعتمادها وإسنادها للمعنيين.",
+   "page": 17
+  },
+  {
+   "id": "1-4-2",
+   "subdomain": "1-4",
+   "summary_en": "Review and update cybersecurity roles and responsibilities at planned intervals or on relevant change.",
+   "summary_ar": "مراجعة أدوار الأمن السيبراني ومسؤولياته وتحديثها على فترات مخططة أو عند التغيير.",
+   "page": 17
+  },
+  {
+   "id": "1-5-1",
+   "subdomain": "1-5",
+   "summary_en": "Define, document and approve a cybersecurity risk management methodology and its procedures.",
+   "summary_ar": "تحديد منهجية لإدارة مخاطر الأمن السيبراني وإجراءاتها وتوثيقها واعتمادها.",
+   "page": 18
+  },
+  {
+   "id": "1-5-2",
+   "subdomain": "1-5",
+   "summary_en": "Implement the cybersecurity risk management methodology in practice.",
+   "summary_ar": "تطبيق منهجية إدارة مخاطر الأمن السيبراني عمليًا.",
+   "page": 18
+  },
+  {
+   "id": "1-5-3",
+   "subdomain": "1-5",
+   "summary_en": "Assess cybersecurity risk at key points such as early in projects and before major technology changes.",
+   "summary_ar": "تقييم مخاطر الأمن السيبراني عند النقاط المهمة مثل بداية المشاريع وقبل التغييرات التقنية الكبيرة.",
+   "page": 18
+  },
+  {
+   "id": "1-5-4",
+   "subdomain": "1-5",
+   "summary_en": "Review the risk management methodology and its implementation at planned intervals or on relevant change.",
+   "summary_ar": "مراجعة منهجية إدارة المخاطر وتطبيقها على فترات مخططة أو عند التغيير.",
+   "page": 18
+  },
+  {
+   "id": "1-6-1",
+   "subdomain": "1-6",
+   "summary_en": "Include cybersecurity in project and change management so related risks are identified and managed.",
+   "summary_ar": "تضمين الأمن السيبراني في إدارة المشاريع والتغيير لتحديد المخاطر المرتبطة وإدارتها.",
+   "page": 18
+  },
+  {
+   "id": "1-6-2",
+   "subdomain": "1-6",
+   "summary_en": "Cover cybersecurity in software and application development, including vulnerability assessment and secure review.",
+   "summary_ar": "تغطية الأمن السيبراني في تطوير البرمجيات والتطبيقات بما في ذلك تقييم الثغرات والمراجعة الآمنة.",
+   "page": 19
+  },
+  {
+   "id": "1-6-3",
+   "subdomain": "1-6",
+   "summary_en": "Test that new and changed software meets the cybersecurity requirements before it goes live.",
+   "summary_ar": "اختبار توافق البرمجيات الجديدة والمعدلة مع متطلبات الأمن السيبراني قبل التشغيل.",
+   "page": 19
+  },
+  {
+   "id": "1-6-4",
+   "subdomain": "1-6",
+   "summary_en": "Review the project management cybersecurity requirements periodically.",
+   "summary_ar": "مراجعة متطلبات الأمن السيبراني في إدارة المشاريع دوريًا.",
+   "page": 19
+  },
+  {
+   "id": "1-7-1",
+   "subdomain": "1-7",
+   "summary_en": "Identify and comply with cybersecurity obligations from nationally approved international agreements and commitments.",
+   "summary_ar": "تحديد التزامات الأمن السيبراني الواردة في الاتفاقيات والالتزامات الدولية المعتمدة وطنيًا والالتزام بها.",
+   "page": 19
+  },
+  {
+   "id": "1-8-1",
+   "subdomain": "1-8",
+   "summary_en": "Periodically review how the entity implements its cybersecurity controls.",
+   "summary_ar": "المراجعة الدورية لتطبيق الجهة لضوابط الأمن السيبراني.",
+   "page": 19
+  },
+  {
+   "id": "1-8-2",
+   "subdomain": "1-8",
+   "summary_en": "Audit and review cybersecurity independently, keeping the reviewer free of conflict of interest.",
+   "summary_ar": "تدقيق الأمن السيبراني ومراجعته باستقلالية مع خلو المدقق من تعارض المصالح.",
+   "page": 20
+  },
+  {
+   "id": "1-8-3",
+   "subdomain": "1-8",
+   "summary_en": "Document audit results with scope, findings, recommendations and corrective actions, and report them to the authorized official.",
+   "summary_ar": "توثيق نتائج التدقيق مع النطاق والملاحظات والتوصيات والإجراءات التصحيحية ورفعها للرئيس المخوّل.",
+   "page": 20
+  },
+  {
+   "id": "1-9-1",
+   "subdomain": "1-9",
+   "summary_en": "Define and approve personnel cybersecurity requirements for before, during and after employment.",
+   "summary_ar": "تحديد متطلبات الأمن السيبراني للعاملين واعتمادها قبل التوظيف وأثناءه وبعد انتهائه.",
+   "page": 20
+  },
+  {
+   "id": "1-9-2",
+   "subdomain": "1-9",
+   "summary_en": "Implement the personnel cybersecurity requirements.",
+   "summary_ar": "تطبيق متطلبات الأمن السيبراني الخاصة بالعاملين.",
+   "page": 20
+  },
+  {
+   "id": "1-9-3",
+   "subdomain": "1-9",
+   "summary_en": "Screen candidates and include confidentiality and non-disclosure clauses in their contracts.",
+   "summary_ar": "فحص المرشحين وتضمين بنود السرية وعدم الإفشاء في عقودهم.",
+   "page": 20
+  },
+  {
+   "id": "1-9-4",
+   "subdomain": "1-9",
+   "summary_en": "Cover cybersecurity at onboarding and during employment, including awareness.",
+   "summary_ar": "تغطية الأمن السيبراني عند الالتحاق وأثناء الخدمة بما في ذلك التوعية.",
+   "page": 20
+  },
+  {
+   "id": "1-9-5",
+   "subdomain": "1-9",
+   "summary_en": "Handle access rights and assets securely at the end or termination of employment.",
+   "summary_ar": "التعامل الآمن مع الصلاحيات والأصول عند انتهاء الخدمة أو إنهائها.",
+   "page": 20
+  },
+  {
+   "id": "1-9-6",
+   "subdomain": "1-9",
+   "summary_en": "Review the personnel cybersecurity requirements periodically.",
+   "summary_ar": "مراجعة متطلبات الأمن السيبراني للعاملين دوريًا.",
+   "page": 20
+  },
+  {
+   "id": "1-10-1",
+   "subdomain": "1-10",
+   "summary_en": "Build an awareness program that grows a positive cybersecurity culture and covers threats and risks.",
+   "summary_ar": "بناء برنامج توعية ينمّي ثقافة إيجابية للأمن السيبراني ويغطي التهديدات والمخاطر.",
+   "page": 21
+  },
+  {
+   "id": "1-10-2",
+   "subdomain": "1-10",
+   "summary_en": "Deliver the awareness program across the entity through varied channels.",
+   "summary_ar": "تنفيذ برنامج التوعية في الجهة عبر قنوات متنوعة.",
+   "page": 21
+  },
+  {
+   "id": "1-10-3",
+   "subdomain": "1-10",
+   "summary_en": "Cover essential topics such as secure email use and secure handling of devices and storage media.",
+   "summary_ar": "تغطية موضوعات أساسية مثل الاستخدام الآمن للبريد والتعامل الآمن مع الأجهزة ووسائط التخزين.",
+   "page": 21
+  },
+  {
+   "id": "1-10-4",
+   "subdomain": "1-10",
+   "summary_en": "Give role-specific training to cybersecurity staff and to people in technical and sensitive roles.",
+   "summary_ar": "تقديم تدريب متخصص لكوادر الأمن السيبراني وللعاملين في الأدوار التقنية والحساسة.",
+   "page": 21
+  },
+  {
+   "id": "1-10-5",
+   "subdomain": "1-10",
+   "summary_en": "Review the awareness and training program periodically.",
+   "summary_ar": "مراجعة برنامج التوعية والتدريب دوريًا.",
+   "page": 21
+  },
+  {
+   "id": "2-1-1",
+   "subdomain": "2-1",
+   "summary_en": "Define, document and approve requirements for managing information and technology assets.",
+   "summary_ar": "تحديد متطلبات إدارة الأصول المعلوماتية والتقنية وتوثيقها واعتمادها.",
+   "page": 22
+  },
+  {
+   "id": "2-1-2",
+   "subdomain": "2-1",
+   "summary_en": "Implement the asset management requirements.",
+   "summary_ar": "تطبيق متطلبات إدارة الأصول.",
+   "page": 22
+  },
+  {
+   "id": "2-1-3",
+   "subdomain": "2-1",
+   "summary_en": "Define, document, approve and communicate an acceptable use policy for assets.",
+   "summary_ar": "تحديد سياسة للاستخدام المقبول للأصول وتوثيقها واعتمادها ونشرها.",
+   "page": 22
+  },
+  {
+   "id": "2-1-4",
+   "subdomain": "2-1",
+   "summary_en": "Implement the acceptable use policy for assets.",
+   "summary_ar": "تطبيق سياسة الاستخدام المقبول للأصول.",
+   "page": 22
+  },
+  {
+   "id": "2-1-5",
+   "subdomain": "2-1",
+   "summary_en": "Classify, label and handle assets in line with legal and regulatory requirements.",
+   "summary_ar": "تصنيف الأصول ووسمها والتعامل معها بما يتوافق مع المتطلبات التشريعية والتنظيمية.",
+   "page": 22
+  },
+  {
+   "id": "2-1-6",
+   "subdomain": "2-1",
+   "summary_en": "Review the asset management requirements periodically.",
+   "summary_ar": "مراجعة متطلبات إدارة الأصول دوريًا.",
+   "page": 22
+  },
+  {
+   "id": "2-2-1",
+   "subdomain": "2-2",
+   "summary_en": "Define, document and approve identity and access management requirements.",
+   "summary_ar": "تحديد متطلبات إدارة الهويات والصلاحيات وتوثيقها واعتمادها.",
+   "page": 22
+  },
+  {
+   "id": "2-2-2",
+   "subdomain": "2-2",
+   "summary_en": "Implement the identity and access management requirements.",
+   "summary_ar": "تطبيق متطلبات إدارة الهويات والصلاحيات.",
+   "page": 22
+  },
+  {
+   "id": "2-2-3",
+   "subdomain": "2-2",
+   "summary_en": "Cover essentials such as multifactor authentication, least privilege and periodic review of access rights.",
+   "summary_ar": "تغطية أساسيات مثل التحقق متعدد العناصر ومبدأ الحد الأدنى من الصلاحيات والمراجعة الدورية لحقوق الوصول.",
+   "page": 22
+  },
+  {
+   "id": "2-2-4",
+   "subdomain": "2-2",
+   "summary_en": "Review the identity and access management requirements periodically.",
+   "summary_ar": "مراجعة متطلبات إدارة الهويات والصلاحيات دوريًا.",
+   "page": 23
+  },
+  {
+   "id": "2-3-1",
+   "subdomain": "2-3",
+   "summary_en": "Define, document and approve requirements to protect information systems and processing facilities.",
+   "summary_ar": "تحديد متطلبات حماية أنظمة المعلومات ومرافق معالجتها وتوثيقها واعتمادها.",
+   "page": 23
+  },
+  {
+   "id": "2-3-2",
+   "subdomain": "2-3",
+   "summary_en": "Implement the protection requirements for systems and processing facilities.",
+   "summary_ar": "تطبيق متطلبات حماية الأنظمة ومرافق المعالجة.",
+   "page": 23
+  },
+  {
+   "id": "2-3-3",
+   "subdomain": "2-3",
+   "summary_en": "Cover essentials such as advanced malware protection on workstations and servers, patching and secure hardening.",
+   "summary_ar": "تغطية أساسيات مثل الحماية المتقدمة من البرمجيات الخبيثة على محطات العمل والخوادم والتحديثات والتحصين الآمن.",
+   "page": 23
+  },
+  {
+   "id": "2-3-4",
+   "subdomain": "2-3",
+   "summary_en": "Review the systems and processing facilities protection requirements periodically.",
+   "summary_ar": "مراجعة متطلبات حماية الأنظمة ومرافق المعالجة دوريًا.",
+   "page": 23
+  },
+  {
+   "id": "2-4-1",
+   "subdomain": "2-4",
+   "summary_en": "Define, document and approve email protection requirements.",
+   "summary_ar": "تحديد متطلبات حماية البريد الإلكتروني وتوثيقها واعتمادها.",
+   "page": 24
+  },
+  {
+   "id": "2-4-2",
+   "subdomain": "2-4",
+   "summary_en": "Implement the email protection requirements.",
+   "summary_ar": "تطبيق متطلبات حماية البريد الإلكتروني.",
+   "page": 24
+  },
+  {
+   "id": "2-4-3",
+   "subdomain": "2-4",
+   "summary_en": "Cover essentials such as filtering phishing and spam, advanced protection, multifactor access and email authentication.",
+   "summary_ar": "تغطية أساسيات مثل ترشيح رسائل التصيد والرسائل غير المرغوبة والحماية المتقدمة والتحقق متعدد العناصر للوصول والمصادقة على البريد.",
+   "page": 24
+  },
+  {
+   "id": "2-4-4",
+   "subdomain": "2-4",
+   "summary_en": "Review the email protection requirements periodically.",
+   "summary_ar": "مراجعة متطلبات حماية البريد الإلكتروني دوريًا.",
+   "page": 24
+  },
+  {
+   "id": "2-5-1",
+   "subdomain": "2-5",
+   "summary_en": "Define, document and approve network security management requirements.",
+   "summary_ar": "تحديد متطلبات إدارة أمن الشبكات وتوثيقها واعتمادها.",
+   "page": 24
+  },
+  {
+   "id": "2-5-2",
+   "subdomain": "2-5",
+   "summary_en": "Implement the network security requirements.",
+   "summary_ar": "تطبيق متطلبات أمن الشبكات.",
+   "page": 24
+  },
+  {
+   "id": "2-5-3",
+   "subdomain": "2-5",
+   "summary_en": "Cover essentials such as network segmentation, boundary protection and filtering, and secure management of network devices.",
+   "summary_ar": "تغطية أساسيات مثل تجزئة الشبكة وحماية الحدود وترشيحها والإدارة الآمنة لأجهزة الشبكة.",
+   "page": 24
+  },
+  {
+   "id": "2-5-4",
+   "subdomain": "2-5",
+   "summary_en": "Review the network security requirements periodically.",
+   "summary_ar": "مراجعة متطلبات أمن الشبكات دوريًا.",
+   "page": 25
+  },
+  {
+   "id": "2-6-1",
+   "subdomain": "2-6",
+   "summary_en": "Define, document and approve mobile device and bring your own device security requirements.",
+   "summary_ar": "تحديد متطلبات أمن الأجهزة المحمولة والأجهزة الشخصية وتوثيقها واعتمادها.",
+   "page": 25
+  },
+  {
+   "id": "2-6-2",
+   "subdomain": "2-6",
+   "summary_en": "Implement the mobile device and personal device requirements.",
+   "summary_ar": "تطبيق متطلبات أمن الأجهزة المحمولة والأجهزة الشخصية.",
+   "page": 25
+  },
+  {
+   "id": "2-6-3",
+   "subdomain": "2-6",
+   "summary_en": "Cover essentials such as separating work data, encryption and secure wipe on loss or end of use.",
+   "summary_ar": "تغطية أساسيات مثل فصل بيانات العمل والتشفير والمسح الآمن عند الفقد أو انتهاء الاستخدام.",
+   "page": 25
+  },
+  {
+   "id": "2-6-4",
+   "subdomain": "2-6",
+   "summary_en": "Review the mobile and personal device requirements periodically.",
+   "summary_ar": "مراجعة متطلبات أمن الأجهزة المحمولة والأجهزة الشخصية دوريًا.",
+   "page": 26
+  },
+  {
+   "id": "2-7-1",
+   "subdomain": "2-7",
+   "summary_en": "Define, document and approve data and information protection requirements per legal and regulatory requirements.",
+   "summary_ar": "تحديد متطلبات حماية البيانات والمعلومات وتوثيقها واعتمادها بما يتوافق مع المتطلبات التشريعية والتنظيمية.",
+   "page": 26
+  },
+  {
+   "id": "2-7-2",
+   "subdomain": "2-7",
+   "summary_en": "Implement data and information protection based on the classification level.",
+   "summary_ar": "تطبيق حماية البيانات والمعلومات بحسب مستوى التصنيف.",
+   "page": 26
+  },
+  {
+   "id": "2-7-3",
+   "subdomain": "2-7",
+   "summary_en": "Review the data and information protection requirements periodically.",
+   "summary_ar": "مراجعة متطلبات حماية البيانات والمعلومات دوريًا.",
+   "page": 26
+  },
+  {
+   "id": "2-8-1",
+   "subdomain": "2-8",
+   "summary_en": "Define, document and approve cryptography requirements.",
+   "summary_ar": "تحديد متطلبات التشفير وتوثيقها واعتمادها.",
+   "page": 26
+  },
+  {
+   "id": "2-8-2",
+   "subdomain": "2-8",
+   "summary_en": "Implement the cryptography requirements in line with the National Cryptographic Standards.",
+   "summary_ar": "تطبيق متطلبات التشفير بما يتوافق مع المعايير الوطنية للتشفير.",
+   "page": 26
+  },
+  {
+   "id": "2-8-3",
+   "subdomain": "2-8",
+   "summary_en": "Apply the cryptographic level suited to sensitivity and manage keys safely across their lifecycle.",
+   "summary_ar": "تطبيق مستوى التشفير المناسب للحساسية وإدارة المفاتيح بأمان طوال دورة حياتها.",
+   "page": 26
+  },
+  {
+   "id": "2-8-4",
+   "subdomain": "2-8",
+   "summary_en": "Review the cryptography requirements periodically.",
+   "summary_ar": "مراجعة متطلبات التشفير دوريًا.",
+   "page": 27
+  },
+  {
+   "id": "2-9-1",
+   "subdomain": "2-9",
+   "summary_en": "Define, document and approve backup and recovery requirements.",
+   "summary_ar": "تحديد متطلبات النسخ الاحتياطي والاسترجاع وتوثيقها واعتمادها.",
+   "page": 27
+  },
+  {
+   "id": "2-9-2",
+   "subdomain": "2-9",
+   "summary_en": "Implement the backup and recovery requirements.",
+   "summary_ar": "تطبيق متطلبات النسخ الاحتياطي والاسترجاع.",
+   "page": 27
+  },
+  {
+   "id": "2-9-3",
+   "subdomain": "2-9",
+   "summary_en": "Cover essentials such as backing up critical assets, secure storage and periodic recovery testing.",
+   "summary_ar": "تغطية أساسيات مثل نسخ الأصول الحرجة احتياطيًا والتخزين الآمن واختبار الاسترجاع دوريًا.",
+   "page": 27
+  },
+  {
+   "id": "2-9-4",
+   "subdomain": "2-9",
+   "summary_en": "Review the backup and recovery requirements periodically.",
+   "summary_ar": "مراجعة متطلبات النسخ الاحتياطي والاسترجاع دوريًا.",
+   "page": 27
+  },
+  {
+   "id": "2-10-1",
+   "subdomain": "2-10",
+   "summary_en": "Define, document and approve technical vulnerability management requirements.",
+   "summary_ar": "تحديد متطلبات إدارة الثغرات التقنية وتوثيقها واعتمادها.",
+   "page": 27
+  },
+  {
+   "id": "2-10-2",
+   "subdomain": "2-10",
+   "summary_en": "Implement the vulnerability management requirements.",
+   "summary_ar": "تطبيق متطلبات إدارة الثغرات.",
+   "page": 27
+  },
+  {
+   "id": "2-10-3",
+   "subdomain": "2-10",
+   "summary_en": "Cover essentials such as periodic vulnerability assessment, prompt remediation and patch management.",
+   "summary_ar": "تغطية أساسيات مثل التقييم الدوري للثغرات والمعالجة السريعة وإدارة التحديثات.",
+   "page": 28
+  },
+  {
+   "id": "2-10-4",
+   "subdomain": "2-10",
+   "summary_en": "Review the vulnerability management requirements periodically.",
+   "summary_ar": "مراجعة متطلبات إدارة الثغرات دوريًا.",
+   "page": 28
+  },
+  {
+   "id": "2-11-1",
+   "subdomain": "2-11",
+   "summary_en": "Define, document and approve penetration testing requirements.",
+   "summary_ar": "تحديد متطلبات اختبار الاختراق وتوثيقها واعتمادها.",
+   "page": 28
+  },
+  {
+   "id": "2-11-2",
+   "subdomain": "2-11",
+   "summary_en": "Implement the penetration testing requirements.",
+   "summary_ar": "تطبيق متطلبات اختبار الاختراق.",
+   "page": 28
+  },
+  {
+   "id": "2-11-3",
+   "subdomain": "2-11",
+   "summary_en": "Cover essentials such as testing all externally exposed services and testing on a periodic basis.",
+   "summary_ar": "تغطية أساسيات مثل اختبار جميع الخدمات المتاحة خارجيًا والاختبار على أساس دوري.",
+   "page": 28
+  },
+  {
+   "id": "2-11-4",
+   "subdomain": "2-11",
+   "summary_en": "Review the penetration testing requirements periodically.",
+   "summary_ar": "مراجعة متطلبات اختبار الاختراق دوريًا.",
+   "page": 28
+  },
+  {
+   "id": "2-12-1",
+   "subdomain": "2-12",
+   "summary_en": "Define, document and approve event logging and monitoring requirements.",
+   "summary_ar": "تحديد متطلبات سجلات الأحداث والمراقبة وتوثيقها واعتمادها.",
+   "page": 29
+  },
+  {
+   "id": "2-12-2",
+   "subdomain": "2-12",
+   "summary_en": "Implement the event logging and monitoring requirements.",
+   "summary_ar": "تطبيق متطلبات سجلات الأحداث والمراقبة.",
+   "page": 29
+  },
+  {
+   "id": "2-12-3",
+   "subdomain": "2-12",
+   "summary_en": "Cover essentials such as logging for critical assets, protecting the logs and continuous monitoring.",
+   "summary_ar": "تغطية أساسيات مثل تفعيل السجلات للأصول الحرجة وحماية السجلات والمراقبة المستمرة.",
+   "page": 29
+  },
+  {
+   "id": "2-12-4",
+   "subdomain": "2-12",
+   "summary_en": "Review the event logging and monitoring requirements periodically.",
+   "summary_ar": "مراجعة متطلبات سجلات الأحداث والمراقبة دوريًا.",
+   "page": 29
+  },
+  {
+   "id": "2-13-1",
+   "subdomain": "2-13",
+   "summary_en": "Define, document and approve cybersecurity incident and threat management requirements.",
+   "summary_ar": "تحديد متطلبات إدارة حوادث الأمن السيبراني وتهديداته وتوثيقها واعتمادها.",
+   "page": 29
+  },
+  {
+   "id": "2-13-2",
+   "subdomain": "2-13",
+   "summary_en": "Implement the incident and threat management requirements.",
+   "summary_ar": "تطبيق متطلبات إدارة الحوادث والتهديدات.",
+   "page": 29
+  },
+  {
+   "id": "2-13-3",
+   "subdomain": "2-13",
+   "summary_en": "Cover essentials such as incident response and escalation plans and use of threat intelligence.",
+   "summary_ar": "تغطية أساسيات مثل خطط الاستجابة للحوادث والتصعيد والاستفادة من معلومات التهديدات.",
+   "page": 30
+  },
+  {
+   "id": "2-13-4",
+   "subdomain": "2-13",
+   "summary_en": "Review the incident and threat management requirements periodically.",
+   "summary_ar": "مراجعة متطلبات إدارة الحوادث والتهديدات دوريًا.",
+   "page": 30
+  },
+  {
+   "id": "2-14-1",
+   "subdomain": "2-14",
+   "summary_en": "Define, document and approve physical security requirements against unauthorized access, loss, theft and damage.",
+   "summary_ar": "تحديد متطلبات الأمن المادي ضد الوصول غير المصرح به والفقد والسرقة والتلف وتوثيقها واعتمادها.",
+   "page": 30
+  },
+  {
+   "id": "2-14-2",
+   "subdomain": "2-14",
+   "summary_en": "Implement the physical security requirements.",
+   "summary_ar": "تطبيق متطلبات الأمن المادي.",
+   "page": 30
+  },
+  {
+   "id": "2-14-3",
+   "subdomain": "2-14",
+   "summary_en": "Cover essentials such as controlling access to critical areas and monitoring and logging entry.",
+   "summary_ar": "تغطية أساسيات مثل التحكم في الوصول إلى المناطق الحرجة ومراقبة الدخول وتسجيله.",
+   "page": 30
+  },
+  {
+   "id": "2-14-4",
+   "subdomain": "2-14",
+   "summary_en": "Review the physical security requirements periodically.",
+   "summary_ar": "مراجعة متطلبات الأمن المادي دوريًا.",
+   "page": 30
+  },
+  {
+   "id": "2-15-1",
+   "subdomain": "2-15",
+   "summary_en": "Define, document and approve protection requirements for external web applications.",
+   "summary_ar": "تحديد متطلبات حماية تطبيقات الويب الخارجية وتوثيقها واعتمادها.",
+   "page": 31
+  },
+  {
+   "id": "2-15-2",
+   "subdomain": "2-15",
+   "summary_en": "Implement the web application protection requirements.",
+   "summary_ar": "تطبيق متطلبات حماية تطبيقات الويب.",
+   "page": 31
+  },
+  {
+   "id": "2-15-3",
+   "subdomain": "2-15",
+   "summary_en": "Cover essentials such as a web application firewall, secure development and multi-tier protection.",
+   "summary_ar": "تغطية أساسيات مثل جدار حماية تطبيقات الويب والتطوير الآمن والحماية متعددة الطبقات.",
+   "page": 31
+  },
+  {
+   "id": "2-15-4",
+   "subdomain": "2-15",
+   "summary_en": "Review the web application protection requirements periodically.",
+   "summary_ar": "مراجعة متطلبات حماية تطبيقات الويب دوريًا.",
+   "page": 31
+  },
+  {
+   "id": "3-1-1",
+   "subdomain": "3-1",
+   "summary_en": "Define, document and approve cybersecurity requirements for business continuity management.",
+   "summary_ar": "تحديد متطلبات الأمن السيبراني في إدارة استمرارية الأعمال وتوثيقها واعتمادها.",
+   "page": 32
+  },
+  {
+   "id": "3-1-2",
+   "subdomain": "3-1",
+   "summary_en": "Implement the business continuity cybersecurity requirements.",
+   "summary_ar": "تطبيق متطلبات الأمن السيبراني في إدارة استمرارية الأعمال.",
+   "page": 32
+  },
+  {
+   "id": "3-1-3",
+   "subdomain": "3-1",
+   "summary_en": "Cover essentials such as keeping cybersecurity systems and procedures running, incident response continuity and disaster recovery plans.",
+   "summary_ar": "تغطية أساسيات مثل استمرار عمل أنظمة الأمن السيبراني وإجراءاته واستمرارية الاستجابة للحوادث وخطط التعافي من الكوارث.",
+   "page": 32
+  },
+  {
+   "id": "3-1-4",
+   "subdomain": "3-1",
+   "summary_en": "Review the business continuity cybersecurity requirements periodically.",
+   "summary_ar": "مراجعة متطلبات الأمن السيبراني في إدارة استمرارية الأعمال دوريًا.",
+   "page": 32
+  },
+  {
+   "id": "4-1-1",
+   "subdomain": "4-1",
+   "summary_en": "Define, document and approve third-party cybersecurity requirements, including contracts and service level agreements.",
+   "summary_ar": "تحديد متطلبات الأمن السيبراني للأطراف الخارجية وتوثيقها واعتمادها بما في ذلك العقود واتفاقيات مستوى الخدمة.",
+   "page": 33
+  },
+  {
+   "id": "4-1-2",
+   "subdomain": "4-1",
+   "summary_en": "Cover contract essentials such as non-disclosure clauses and secure removal of the entity's data at the end of service.",
+   "summary_ar": "تغطية أساسيات العقود مثل بنود عدم الإفشاء والإزالة الآمنة لبيانات الجهة عند انتهاء الخدمة.",
+   "page": 33
+  },
+  {
+   "id": "4-1-3",
+   "subdomain": "4-1",
+   "summary_en": "Assess third-party cybersecurity risk and ensure mitigating controls before signing, with extra care for outsourcing and managed services.",
+   "summary_ar": "تقييم مخاطر الأمن السيبراني للأطراف الخارجية وضمان وجود ضوابط للمعالجة قبل التوقيع مع عناية إضافية للإسناد والخدمات المدارة.",
+   "page": 33
+  },
+  {
+   "id": "4-1-4",
+   "subdomain": "4-1",
+   "summary_en": "Review the third-party cybersecurity requirements periodically.",
+   "summary_ar": "مراجعة متطلبات الأمن السيبراني للأطراف الخارجية دوريًا.",
+   "page": 33
+  },
+  {
+   "id": "4-2-1",
+   "subdomain": "4-2",
+   "summary_en": "Define, document and approve cybersecurity requirements for using cloud computing and hosting services.",
+   "summary_ar": "تحديد متطلبات الأمن السيبراني لاستخدام خدمات الحوسبة السحابية والاستضافة وتوثيقها واعتمادها.",
+   "page": 34
+  },
+  {
+   "id": "4-2-2",
+   "subdomain": "4-2",
+   "summary_en": "Implement the cloud and hosting cybersecurity requirements in line with legal and regulatory requirements.",
+   "summary_ar": "تطبيق متطلبات الأمن السيبراني للحوسبة السحابية والاستضافة بما يتوافق مع المتطلبات التشريعية والتنظيمية.",
+   "page": 34
+  },
+  {
+   "id": "4-2-3",
+   "subdomain": "4-2",
+   "summary_en": "Cover essentials such as protecting and locating the entity's data with the provider and separating the entity's environment.",
+   "summary_ar": "تغطية أساسيات مثل حماية بيانات الجهة وموقعها لدى مزود الخدمة وفصل بيئة الجهة.",
+   "page": 34
+  },
+  {
+   "id": "4-2-4",
+   "subdomain": "4-2",
+   "summary_en": "Review the cloud computing and hosting cybersecurity requirements periodically.",
+   "summary_ar": "مراجعة متطلبات الأمن السيبراني للحوسبة السحابية والاستضافة دوريًا.",
+   "page": 34
+  }
+ ],
+ "crosswalk": [
+  {
+   "subdomain": "1-1",
+   "iso": [
+    "A.5.1"
+   ],
+   "csf": [
+    "GV.OC",
+    "GV.SC",
+    "GV.RM"
+   ]
+  },
+  {
+   "subdomain": "1-2",
+   "iso": [
+    "A.5.2",
+    "A.5.4"
+   ],
+   "csf": [
+    "GV.RR"
+   ]
+  },
+  {
+   "subdomain": "1-3",
+   "iso": [
+    "A.5.1",
+    "A.5.37"
+   ],
+   "csf": [
+    "GV.PO"
+   ]
+  },
+  {
+   "subdomain": "1-4",
+   "iso": [
+    "A.5.2",
+    "A.5.3"
+   ],
+   "csf": [
+    "GV.RR"
+   ]
+  },
+  {
+   "subdomain": "1-5",
+   "iso": [
+    "A.5.7"
+   ],
+   "csf": [
+    "GV.RM",
+    "ID.RA"
+   ]
+  },
+  {
+   "subdomain": "1-6",
+   "iso": [
+    "A.5.8"
+   ],
+   "csf": [
+    "ID.RA",
+    "PR.PS"
+   ]
+  },
+  {
+   "subdomain": "1-7",
+   "iso": [
+    "A.5.31",
+    "A.5.34",
+    "A.5.36"
+   ],
+   "csf": [
+    "GV.OC",
+    "GV.PO"
+   ]
+  },
+  {
+   "subdomain": "1-8",
+   "iso": [
+    "A.5.35",
+    "A.5.36"
+   ],
+   "csf": [
+    "GV.OV",
+    "ID.IM"
+   ]
+  },
+  {
+   "subdomain": "1-9",
+   "iso": [
+    "A.6.1",
+    "A.6.2",
+    "A.6.4",
+    "A.6.5",
+    "A.6.6"
+   ],
+   "csf": [
+    "PR.AT",
+    "GV.RR"
+   ]
+  },
+  {
+   "subdomain": "1-10",
+   "iso": [
+    "A.6.3"
+   ],
+   "csf": [
+    "PR.AT"
+   ]
+  },
+  {
+   "subdomain": "2-1",
+   "iso": [
+    "A.5.9",
+    "A.5.10",
+    "A.5.11",
+    "A.5.12",
+    "A.5.13"
+   ],
+   "csf": [
+    "ID.AM"
+   ]
+  },
+  {
+   "subdomain": "2-2",
+   "iso": [
+    "A.5.15",
+    "A.5.16",
+    "A.5.17",
+    "A.5.18",
+    "A.8.2",
+    "A.8.3",
+    "A.8.5"
+   ],
+   "csf": [
+    "PR.AA"
+   ]
+  },
+  {
+   "subdomain": "2-3",
+   "iso": [
+    "A.8.1",
+    "A.8.7",
+    "A.8.9",
+    "A.8.19"
+   ],
+   "csf": [
+    "PR.PS",
+    "DE.CM"
+   ]
+  },
+  {
+   "subdomain": "2-4",
+   "iso": [
+    "A.5.14",
+    "A.8.7"
+   ],
+   "csf": [
+    "PR.PS",
+    "DE.CM"
+   ]
+  },
+  {
+   "subdomain": "2-5",
+   "iso": [
+    "A.8.20",
+    "A.8.21",
+    "A.8.22"
+   ],
+   "csf": [
+    "PR.IR",
+    "PR.AA"
+   ]
+  },
+  {
+   "subdomain": "2-6",
+   "iso": [
+    "A.6.7",
+    "A.8.1"
+   ],
+   "csf": [
+    "PR.AA",
+    "PR.DS"
+   ]
+  },
+  {
+   "subdomain": "2-7",
+   "iso": [
+    "A.5.12",
+    "A.8.10",
+    "A.8.11",
+    "A.8.12"
+   ],
+   "csf": [
+    "PR.DS"
+   ]
+  },
+  {
+   "subdomain": "2-8",
+   "iso": [
+    "A.8.24"
+   ],
+   "csf": [
+    "PR.DS"
+   ]
+  },
+  {
+   "subdomain": "2-9",
+   "iso": [
+    "A.8.13",
+    "A.8.14"
+   ],
+   "csf": [
+    "PR.DS",
+    "RC.RP"
+   ]
+  },
+  {
+   "subdomain": "2-10",
+   "iso": [
+    "A.8.8"
+   ],
+   "csf": [
+    "ID.RA",
+    "PR.PS"
+   ]
+  },
+  {
+   "subdomain": "2-11",
+   "iso": [
+    "A.8.8",
+    "A.8.29"
+   ],
+   "csf": [
+    "ID.RA",
+    "ID.IM"
+   ]
+  },
+  {
+   "subdomain": "2-12",
+   "iso": [
+    "A.8.15",
+    "A.8.16"
+   ],
+   "csf": [
+    "DE.CM",
+    "DE.AE"
+   ]
+  },
+  {
+   "subdomain": "2-13",
+   "iso": [
+    "A.5.24",
+    "A.5.25",
+    "A.5.26",
+    "A.5.27",
+    "A.5.7"
+   ],
+   "csf": [
+    "DE.AE",
+    "RS.MA",
+    "RC.RP"
+   ]
+  },
+  {
+   "subdomain": "2-14",
+   "iso": [
+    "A.7.1",
+    "A.7.2",
+    "A.7.3",
+    "A.7.4"
+   ],
+   "csf": [
+    "PR.AA",
+    "PR.IR"
+   ]
+  },
+  {
+   "subdomain": "2-15",
+   "iso": [
+    "A.8.25",
+    "A.8.26",
+    "A.8.28"
+   ],
+   "csf": [
+    "PR.PS"
+   ]
+  },
+  {
+   "subdomain": "3-1",
+   "iso": [
+    "A.5.29",
+    "A.5.30",
+    "A.8.14"
+   ],
+   "csf": [
+    "RC.RP",
+    "PR.IR",
+    "GV.OC"
+   ]
+  },
+  {
+   "subdomain": "4-1",
+   "iso": [
+    "A.5.19",
+    "A.5.20",
+    "A.5.21",
+    "A.5.22"
+   ],
+   "csf": [
+    "GV.SC"
+   ]
+  },
+  {
+   "subdomain": "4-2",
+   "iso": [
+    "A.5.23"
+   ],
+   "csf": [
+    "GV.SC",
+    "PR.DS"
+   ]
+  }
+ ],
+ "families": [
+  {
+   "id": "ecc",
+   "en": "Essential Cybersecurity Controls",
+   "ar": "الضوابط الأساسية للأمن السيبراني",
+   "abbr": "ECC",
+   "baseline": true,
+   "who_en": "Every national entity, its subsidiaries, and private entities that own, operate or host critical national infrastructure.",
+   "who_ar": "كل جهة وطنية وشركاتها التابعة والجهات الخاصة التي تملك بنية تحتية وطنية حساسة أو تشغّلها أو تستضيفها.",
+   "note_en": "The baseline. This register covers it in full.",
+   "note_ar": "الأساس وهذا السجل يغطيه بالكامل."
+  },
+  {
+   "id": "cscc",
+   "en": "Critical Systems Cybersecurity Controls",
+   "ar": "ضوابط الأمن السيبراني للأنظمة الحساسة",
+   "abbr": "CSCC",
+   "baseline": false,
+   "who_en": "Entities that own or operate critical systems, on top of the ECC.",
+   "who_ar": "الجهات التي تملك أنظمة حساسة أو تشغّلها إضافةً إلى الضوابط الأساسية.",
+   "note_en": "Extends the ECC for critical systems.",
+   "note_ar": "يوسّع الضوابط الأساسية للأنظمة الحساسة."
+  },
+  {
+   "id": "otcc",
+   "en": "Operational Technology Cybersecurity Controls",
+   "ar": "ضوابط الأمن السيبراني للأنظمة التشغيلية",
+   "abbr": "OTCC",
+   "baseline": false,
+   "who_en": "Entities that run operational technology and industrial control systems.",
+   "who_ar": "الجهات التي تشغّل أنظمة تقنية تشغيلية وأنظمة تحكم صناعي.",
+   "note_en": "The OT controls, split out of the ECC. The Dir' cyber range is built on these.",
+   "note_ar": "ضوابط الأنظمة التشغيلية المفصولة عن الضوابط الأساسية وعليها بُني ميدان درع السيبراني."
+  },
+  {
+   "id": "ccc",
+   "en": "Cloud Cybersecurity Controls",
+   "ar": "ضوابط الأمن السيبراني للحوسبة السحابية",
+   "abbr": "CCC",
+   "baseline": false,
+   "who_en": "Cloud service providers and the entities that use them.",
+   "who_ar": "مزودو خدمات الحوسبة السحابية والجهات التي تستخدمها.",
+   "note_en": "Applies when you provide or consume cloud services.",
+   "note_ar": "ينطبق عند تقديم خدمات الحوسبة السحابية أو استخدامها."
+  },
+  {
+   "id": "dcc",
+   "en": "Data Cybersecurity Controls",
+   "ar": "ضوابط الأمن السيبراني للبيانات",
+   "abbr": "DCC",
+   "baseline": false,
+   "who_en": "Entities that handle data across its lifecycle, especially classified data.",
+   "who_ar": "الجهات التي تتعامل مع البيانات طوال دورة حياتها وخاصة البيانات المصنّفة.",
+   "note_en": "Focuses on protecting data itself.",
+   "note_ar": "يركّز على حماية البيانات نفسها."
+  },
+  {
+   "id": "tcc",
+   "en": "Telework Cybersecurity Controls",
+   "ar": "ضوابط الأمن السيبراني للعمل عن بُعد",
+   "abbr": "TCC",
+   "baseline": false,
+   "who_en": "Entities that support remote and telework arrangements.",
+   "who_ar": "الجهات التي تتيح ترتيبات العمل عن بُعد.",
+   "note_en": "Applies where staff work remotely.",
+   "note_ar": "ينطبق حيث يعمل الموظفون عن بُعد."
+  }
+ ],
+ "pdpl": [
+  {
+   "id": "basis",
+   "en": "Have a lawful basis and a specific purpose before collecting personal data.",
+   "ar": "وجود أساس نظامي وغرض محدد قبل جمع البيانات الشخصية."
+  },
+  {
+   "id": "consent",
+   "en": "Obtain the data subject's consent where the law requires it, and let them withdraw it.",
+   "ar": "الحصول على موافقة صاحب البيانات متى تطلب النظام ذلك مع تمكينه من سحبها."
+  },
+  {
+   "id": "notice",
+   "en": "Give a clear privacy notice about what is collected and why.",
+   "ar": "تقديم إشعار خصوصية واضح عما يُجمع وأسباب ذلك."
+  },
+  {
+   "id": "rights",
+   "en": "Honor data subject rights to access, correct and destroy their data.",
+   "ar": "احترام حقوق صاحب البيانات في الوصول إليها وتصحيحها وإتلافها."
+  },
+  {
+   "id": "minimize",
+   "en": "Collect the minimum data needed and keep it accurate and up to date.",
+   "ar": "جمع الحد الأدنى من البيانات اللازمة وإبقاؤها دقيقة ومحدّثة."
+  },
+  {
+   "id": "retention",
+   "en": "Keep personal data no longer than the purpose requires.",
+   "ar": "عدم الاحتفاظ بالبيانات الشخصية أطول مما يتطلبه الغرض."
+  },
+  {
+   "id": "security",
+   "en": "Protect personal data with appropriate security safeguards.",
+   "ar": "حماية البيانات الشخصية بضمانات أمنية مناسبة."
+  },
+  {
+   "id": "breach",
+   "en": "Notify the competent authority and affected people of a personal data breach.",
+   "ar": "إبلاغ الجهة المختصة والمتأثرين عند وقوع تسرب للبيانات الشخصية."
+  },
+  {
+   "id": "records",
+   "en": "Keep records of personal data processing activities.",
+   "ar": "الاحتفاظ بسجلات لأنشطة معالجة البيانات الشخصية."
+  },
+  {
+   "id": "transfer",
+   "en": "Follow the rules before transferring personal data outside the Kingdom.",
+   "ar": "الالتزام بالضوابط قبل نقل البيانات الشخصية خارج المملكة."
+  },
+  {
+   "id": "processor",
+   "en": "Bind third-party processors to protect the personal data they handle.",
+   "ar": "إلزام الأطراف المعالِجة بحماية البيانات الشخصية التي تتعامل معها."
+  },
+  {
+   "id": "sensitive",
+   "en": "Apply extra care to sensitive personal data.",
+   "ar": "إيلاء عناية إضافية للبيانات الشخصية الحساسة."
+  }
+ ],
+ "sources": {
+  "note": {
+   "en": "Rawshan is an independent tool. The controls belong to the NCA. Control IDs, titles and page numbers follow the NCA official English text of ECC-2:2024. Summaries, crosswalks and notes are this project's own work and are kept apart from the official text.",
+   "ar": "روشن أداة مستقلة والضوابط ملك للهيئة الوطنية للأمن السيبراني حيث تستند معرّفات الضوابط وعناوينها وأرقام صفحاتها إلى النص الإنجليزي الرسمي للإصدار ECC-2 لعام 2024 أما الملخصات والمقابلات والملاحظات فهي عمل خاص بهذا المشروع مفصول عن النص الرسمي."
+  },
+  "sources": [
+   {
+    "id": "ecc",
+    "en": "NCA Essential Cybersecurity Controls",
+    "ar": "الضوابط الأساسية للأمن السيبراني من الهيئة الوطنية للأمن السيبراني",
+    "url": "https://nca.gov.sa/en/regulatory-documents/controls-list/ecc/",
+    "use": {
+     "en": "The framework this register is built on.",
+     "ar": "الإطار الذي بُني عليه هذا السجل."
+    }
+   },
+   {
+    "id": "ecc-pdf",
+    "en": "NCA ECC-2:2024 official document (English)",
+    "ar": "وثيقة ECC-2 لعام 2024 الرسمية باللغة الإنجليزية",
+    "url": "https://cdn.nca.gov.sa/api/files/public/upload/86e09090-44e4-481f-bc28-355673607654_ECC--2024-EN.pdf",
+    "use": {
+     "en": "The source of the control IDs, titles and page numbers.",
+     "ar": "مصدر معرّفات الضوابط وعناوينها وأرقام صفحاتها."
+    }
+   },
+   {
+    "id": "iso27001",
+    "en": "ISO/IEC 27001 Information security management",
+    "ar": "معيار ISO/IEC 27001 لإدارة أمن المعلومات",
+    "url": "https://www.iso.org/standard/27001",
+    "use": {
+     "en": "One side of the crosswalk.",
+     "ar": "أحد طرفي المقابلة."
+    }
+   },
+   {
+    "id": "csf2",
+    "en": "NIST Cybersecurity Framework 2",
+    "ar": "إطار الأمن السيبراني من NIST الإصدار 2",
+    "url": "https://www.nist.gov/cyberframework",
+    "use": {
+     "en": "The other side of the crosswalk.",
+     "ar": "الطرف الآخر من المقابلة."
+    }
+   },
+   {
+    "id": "pdpl",
+    "en": "Saudi Personal Data Protection Law (PDPL)",
+    "ar": "نظام حماية البيانات الشخصية في المملكة العربية السعودية",
+    "url": "https://sdaia.gov.sa/en/SDAIA/about/Pages/PersonalDataProtection.aspx",
+    "use": {
+     "en": "The source for the data protection obligations.",
+     "ar": "مصدر التزامات حماية البيانات الشخصية."
+    }
+   },
+   {
+    "id": "ncs",
+    "en": "NCA National Cryptographic Standards",
+    "ar": "المعايير الوطنية للتشفير من الهيئة الوطنية للأمن السيبراني",
+    "url": "https://nca.gov.sa/en/regulatory-documents/",
+    "use": {
+     "en": "Referenced by the cryptography controls.",
+     "ar": "مرجع ضوابط التشفير."
+    }
+   }
+  ]
+ },
+ "ui": {
+  "app.title": {
+   "en": "Rawshan",
+   "ar": "روشن"
+  },
+  "app.tagline": {
+   "en": "A working register for the NCA Essential Cybersecurity Controls",
+   "ar": "سجل عملي لضوابط الأمن السيبراني الأساسية من الهيئة الوطنية للأمن السيبراني"
+  },
+  "lang.switch": {
+   "en": "العربية",
+   "ar": "English"
+  },
+  "lang.switchLabel": {
+   "en": "Switch to Arabic",
+   "ar": "التبديل إلى الإنجليزية"
+  },
+  "theme.toLight": {
+   "en": "Light",
+   "ar": "فاتح"
+  },
+  "theme.toDark": {
+   "en": "Dark",
+   "ar": "داكن"
+  },
+  "theme.label": {
+   "en": "Switch theme",
+   "ar": "تبديل المظهر"
+  },
+  "skip": {
+   "en": "Skip to content",
+   "ar": "تخطَّ إلى المحتوى"
+  },
+  "tabs.label": {
+   "en": "Sections",
+   "ar": "الأقسام"
+  },
+  "tab.register": {
+   "en": "Register",
+   "ar": "السجل"
+  },
+  "tab.applicability": {
+   "en": "Applicability",
+   "ar": "قابلية التطبيق"
+  },
+  "tab.crosswalk": {
+   "en": "Crosswalk",
+   "ar": "المقابلة"
+  },
+  "tab.pdpl": {
+   "en": "PDPL",
+   "ar": "حماية البيانات"
+  },
+  "tab.report": {
+   "en": "Report",
+   "ar": "التقرير"
+  },
+  "tab.about": {
+   "en": "About",
+   "ar": "عن الأداة"
+  },
+  "status.implemented": {
+   "en": "Implemented",
+   "ar": "مطبّق"
+  },
+  "status.partial": {
+   "en": "Partially implemented",
+   "ar": "مطبّق جزئيًا"
+  },
+  "status.notimplemented": {
+   "en": "Not implemented",
+   "ar": "غير مطبّق"
+  },
+  "status.notapplicable": {
+   "en": "Not applicable",
+   "ar": "غير منطبق"
+  },
+  "status.unset": {
+   "en": "Not assessed",
+   "ar": "لم يُقيّم"
+  },
+  "readiness.title": {
+   "en": "Readiness",
+   "ar": "الجاهزية"
+  },
+  "readiness.overall": {
+   "en": "Overall readiness",
+   "ar": "الجاهزية الإجمالية"
+  },
+  "readiness.byDomain": {
+   "en": "Readiness by domain",
+   "ar": "الجاهزية بحسب المكوّن"
+  },
+  "readiness.assessed": {
+   "en": "{n} of {total} controls assessed",
+   "ar": "جرى تقييم {n} من {total} ضابطًا"
+  },
+  "band.initial": {
+   "en": "Initial",
+   "ar": "مبدئي"
+  },
+  "band.developing": {
+   "en": "Developing",
+   "ar": "قيد التطوير"
+  },
+  "band.defined": {
+   "en": "Defined",
+   "ar": "محدّد"
+  },
+  "band.managed": {
+   "en": "Managed",
+   "ar": "مُدار"
+  },
+  "register.title": {
+   "en": "Control register",
+   "ar": "سجل الضوابط"
+  },
+  "register.intro": {
+   "en": "Set the status of each control. Rawshan rolls the results up into readiness by domain and overall.",
+   "ar": "حدّد حالة كل ضابط فيجمع روشن النتائج في جاهزية بحسب المكوّن وجاهزية إجمالية."
+  },
+  "search.label": {
+   "en": "Search controls",
+   "ar": "البحث في الضوابط"
+  },
+  "search.placeholder": {
+   "en": "Search by ID, title or text",
+   "ar": "ابحث بالمعرّف أو العنوان أو النص"
+  },
+  "filter.all": {
+   "en": "All",
+   "ar": "الكل"
+  },
+  "filter.implemented": {
+   "en": "Implemented",
+   "ar": "مطبّق"
+  },
+  "filter.partial": {
+   "en": "Partial",
+   "ar": "جزئي"
+  },
+  "filter.gap": {
+   "en": "Gaps",
+   "ar": "الفجوات"
+  },
+  "filter.na": {
+   "en": "Not applicable",
+   "ar": "غير منطبق"
+  },
+  "filter.unset": {
+   "en": "Not assessed",
+   "ar": "لم يُقيّم"
+  },
+  "register.page": {
+   "en": "Page {n}",
+   "ar": "صفحة {n}"
+  },
+  "register.controlsIn": {
+   "en": "{n} controls",
+   "ar": "{n} ضابطًا"
+  },
+  "note.add": {
+   "en": "Add a note",
+   "ar": "إضافة ملاحظة"
+  },
+  "note.placeholder": {
+   "en": "Evidence, owner or next step",
+   "ar": "دليل أو مسؤول أو خطوة تالية"
+  },
+  "appl.title": {
+   "en": "Which NCA controls apply to you",
+   "ar": "أي ضوابط الهيئة تنطبق عليك"
+  },
+  "appl.intro": {
+   "en": "The Essential Cybersecurity Controls are the baseline for national entities and critical infrastructure. Depending on what you run, other NCA frameworks apply on top. This register covers the ECC in full and points you to the rest.",
+   "ar": "الضوابط الأساسية للأمن السيبراني هي الأساس للجهات الوطنية والبنى التحتية الحساسة وبحسب ما تشغّله تنطبق أطر أخرى للهيئة إضافةً إليها حيث يغطي هذا السجل الضوابط الأساسية بالكامل ويرشدك إلى بقيتها."
+  },
+  "appl.baseline": {
+   "en": "Baseline",
+   "ar": "الأساس"
+  },
+  "appl.who": {
+   "en": "Who it applies to",
+   "ar": "لمن ينطبق"
+  },
+  "appl.covered": {
+   "en": "Covered by this register",
+   "ar": "مشمول بهذا السجل"
+  },
+  "appl.separate": {
+   "en": "Separate NCA framework",
+   "ar": "إطار مستقل للهيئة"
+  },
+  "cw.title": {
+   "en": "Crosswalk",
+   "ar": "المقابلة"
+  },
+  "cw.intro": {
+   "en": "How each ECC subdomain lines up with ISO 27001 and the NIST Cybersecurity Framework. This mapping is Rawshan's own analysis, not an official one.",
+   "ar": "كيف يتقابل كل مكوّن فرعي من الضوابط الأساسية مع معيار ISO 27001 وإطار الأمن السيبراني من NIST وهذه المقابلة اجتهاد خاص بروشن لا مقابلة رسمية."
+  },
+  "cw.iso": {
+   "en": "ISO 27001",
+   "ar": "معيار ISO 27001"
+  },
+  "cw.csf": {
+   "en": "NIST CSF",
+   "ar": "إطار NIST"
+  },
+  "pd.title": {
+   "en": "Personal Data Protection",
+   "ar": "حماية البيانات الشخصية"
+  },
+  "pd.intro": {
+   "en": "Core obligations from the Saudi Personal Data Protection Law that sit alongside the ECC. Rely on the official law for compliance decisions.",
+   "ar": "التزامات أساسية من نظام حماية البيانات الشخصية السعودي ترافق الضوابط الأساسية واعتمد على النظام الرسمي في قرارات الامتثال."
+  },
+  "report.title": {
+   "en": "Readiness report",
+   "ar": "تقرير الجاهزية"
+  },
+  "report.intro": {
+   "en": "A snapshot you can print or export.",
+   "ar": "لقطة يمكن طباعتها أو تصديرها."
+  },
+  "report.export": {
+   "en": "Export",
+   "ar": "تصدير"
+  },
+  "report.print": {
+   "en": "Print",
+   "ar": "طباعة"
+  },
+  "report.generated": {
+   "en": "Generated {d}",
+   "ar": "أُنشئ في {d}"
+  },
+  "about.title": {
+   "en": "About this tool",
+   "ar": "عن الأداة"
+  },
+  "about.what": {
+   "en": "Rawshan is an independent, open source register for working through Saudi Arabia's NCA Essential Cybersecurity Controls, with a crosswalk to ISO 27001 and the NIST Cybersecurity Framework and the core Personal Data Protection Law obligations.",
+   "ar": "روشن سجل مستقل مفتوح المصدر للعمل على الضوابط الأساسية للأمن السيبراني في المملكة العربية السعودية مع مقابلة لمعيار ISO 27001 وإطار الأمن السيبراني من NIST والتزامات نظام حماية البيانات الشخصية الأساسية."
+  },
+  "about.how": {
+   "en": "Set each control's status and Rawshan computes readiness by domain and overall, all in your browser with nothing sent anywhere.",
+   "ar": "حدّد حالة كل ضابط فيحسب روشن الجاهزية بحسب المكوّن وإجماليًا داخل متصفحك دون إرسال أي شيء إلى أي مكان."
+  },
+  "about.source": {
+   "en": "The controls belong to the NCA. Control IDs, titles and page numbers follow the NCA official English text. Summaries, the crosswalk and notes are this project's own work and are kept apart from the official text.",
+   "ar": "الضوابط ملك للهيئة الوطنية للأمن السيبراني حيث تستند معرّفات الضوابط وعناوينها وأرقام صفحاتها إلى النص الإنجليزي الرسمي أما الملخصات والمقابلة والملاحظات فهي عمل خاص بهذا المشروع مفصول عن النص الرسمي."
+  },
+  "about.disclaimer": {
+   "en": "Not affiliated with or endorsed by the NCA. Use it as a working aid and rely on the official documents for compliance decisions.",
+   "ar": "لا ترتبط هذه الأداة بالهيئة الوطنية للأمن السيبراني ولا تحظى باعتمادها لذا استخدمها أداةً مساعدة واعتمد على الوثائق الرسمية في قرارات الامتثال."
+  },
+  "about.nameTitle": {
+   "en": "About the name",
+   "ar": "عن الاسم"
+  },
+  "about.name": {
+   "en": "Rawshan (روشن) is the carved wooden lattice window of old Hijazi houses, a screen of fine geometric order that lets people see out and keeps the inside protected. A fitting name for a register that gives you a clear view of your controls.",
+   "ar": "روشن هو النافذة الخشبية المشغولة في البيوت الحجازية القديمة وهي مشربية بنظام هندسي دقيق تتيح النظر إلى الخارج وتحفظ الداخل لذا جاء الاسم مناسبًا لسجل يمنحك رؤية واضحة لضوابطك."
+  },
+  "about.mcp": {
+   "en": "AI agents can query the same data through the bundled MCP server. The README explains the setup.",
+   "ar": "يمكن لوكلاء الذكاء الاصطناعي الاستعلام عن البيانات نفسها عبر خادم MCP المرفق ويشرح ملف README طريقة إعداده."
+  },
+  "about.sources": {
+   "en": "Official sources",
+   "ar": "المصادر الرسمية"
+  },
+  "about.code": {
+   "en": "Source code",
+   "ar": "الشفرة المصدرية"
+  },
+  "footer.license": {
+   "en": "Open source under the MIT license. The ECC belongs to the NCA.",
+   "ar": "مفتوح المصدر بترخيص MIT والضوابط الأساسية ملك للهيئة الوطنية للأمن السيبراني."
+  },
+  "footer.version": {
+   "en": "Version {v}",
+   "ar": "الإصدار {v}"
+  },
+  "popup.title": {
+   "en": "For learning and reference",
+   "ar": "لأغراض التعلم والاطلاع"
+  },
+  "popup.body1": {
+   "en": "Rawshan is an independent, open source tool for working through Saudi Arabia's NCA Essential Cybersecurity Controls. It is not official, and it has no affiliation with the National Cybersecurity Authority.",
+   "ar": "روشن أداة مستقلة مفتوحة المصدر للعمل على الضوابط الأساسية للأمن السيبراني في المملكة العربية السعودية وهي غير رسمية ولا صلة لها بالهيئة الوطنية للأمن السيبراني."
+  },
+  "popup.body2": {
+   "en": "Rely on the official controls for any compliance decision.",
+   "ar": "اعتمد على الضوابط الرسمية في أي قرار امتثال."
+  },
+  "popup.ack": {
+   "en": "I understand",
+   "ar": "فهمت"
+  },
+  "empty.search": {
+   "en": "Nothing matches your search.",
+   "ar": "لا شيء يطابق بحثك."
+  },
+  "state.saved": {
+   "en": "Saved",
+   "ar": "محفوظ"
+  },
+  "state.unsaved": {
+   "en": "Not saved",
+   "ar": "غير محفوظ"
+  },
+  "action.reset": {
+   "en": "Reset",
+   "ar": "إعادة تعيين"
+  },
+  "action.resetConfirm": {
+   "en": "Clear all statuses and notes?",
+   "ar": "مسح جميع الحالات والملاحظات؟"
+  },
+  "source.line": {
+   "en": "Built on the NCA Essential Cybersecurity Controls (ECC-2:2024).",
+   "ar": "مبني على الضوابط الأساسية للأمن السيبراني ECC-2 لعام 2024 الصادرة عن الهيئة الوطنية للأمن السيبراني."
+  },
+  "col.band": {
+   "en": "Level",
+   "ar": "المستوى"
+  }
+ }
+}

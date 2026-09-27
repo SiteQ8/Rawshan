@@ -1,0 +1,256 @@
+{
+  "subdomains": [
+    {
+      "id": "1-1",
+      "domain": "1",
+      "title_en": "Cybersecurity Strategy",
+      "title_ar": "استراتيجية الأمن السيبراني",
+      "objective_en": "Set a cybersecurity strategy whose plans and projects support the entity's compliance with legal and regulatory requirements.",
+      "objective_ar": "وضع استراتيجية للأمن السيبراني تدعم خططها ومشاريعها التزام الجهة بالمتطلبات التشريعية والتنظيمية.",
+      "page": 16
+    },
+    {
+      "id": "1-2",
+      "domain": "1",
+      "title_en": "Cybersecurity Management",
+      "title_ar": "إدارة الأمن السيبراني",
+      "objective_en": "Make sure the authorized official supports running and managing the entity's cybersecurity programs.",
+      "objective_ar": "ضمان دعم الرئيس المخوّل لتنفيذ برامج الأمن السيبراني في الجهة وإدارتها.",
+      "page": 16
+    },
+    {
+      "id": "1-3",
+      "domain": "1",
+      "title_en": "Cybersecurity Policies and Procedures",
+      "title_ar": "سياسات الأمن السيبراني وإجراءاته",
+      "objective_en": "Document the cybersecurity requirements and communicate them so the entity can comply.",
+      "objective_ar": "توثيق متطلبات الأمن السيبراني ونشرها لتتمكن الجهة من الالتزام بها.",
+      "page": 17
+    },
+    {
+      "id": "1-4",
+      "domain": "1",
+      "title_en": "Cybersecurity Roles and Responsibilities",
+      "title_ar": "أدوار الأمن السيبراني ومسؤولياته",
+      "objective_en": "Define clear cybersecurity roles and responsibilities for everyone involved in the controls.",
+      "objective_ar": "تحديد أدوار الأمن السيبراني ومسؤولياته بوضوح لكل من يشارك في تطبيق الضوابط.",
+      "page": 17
+    },
+    {
+      "id": "1-5",
+      "domain": "1",
+      "title_en": "Cybersecurity Risk Management",
+      "title_ar": "إدارة مخاطر الأمن السيبراني",
+      "objective_en": "Manage cybersecurity risks through a defined method that protects the entity's information and technology assets.",
+      "objective_ar": "إدارة مخاطر الأمن السيبراني بمنهجية محددة تحمي أصول الجهة المعلوماتية والتقنية.",
+      "page": 18
+    },
+    {
+      "id": "1-6",
+      "domain": "1",
+      "title_en": "Cybersecurity in Information and Technology Project Management",
+      "title_ar": "الأمن السيبراني في إدارة مشاريع تقنية المعلومات",
+      "objective_en": "Build cybersecurity requirements into technology projects and change management from the start.",
+      "objective_ar": "تضمين متطلبات الأمن السيبراني في مشاريع التقنية وإدارة التغيير منذ البداية.",
+      "page": 18
+    },
+    {
+      "id": "1-7",
+      "domain": "1",
+      "title_en": "Compliance with Cybersecurity Standards, Laws and Regulations",
+      "title_ar": "الالتزام بمعايير الأمن السيبراني وتشريعاته",
+      "objective_en": "Keep the cybersecurity program aligned with the relevant national and international obligations.",
+      "objective_ar": "إبقاء برنامج الأمن السيبراني متوافقًا مع الالتزامات الوطنية والدولية ذات العلاقة.",
+      "page": 19
+    },
+    {
+      "id": "1-8",
+      "domain": "1",
+      "title_en": "Periodical Cybersecurity Review and Audit",
+      "title_ar": "المراجعة والتدقيق الدوري للأمن السيبراني",
+      "objective_en": "Review and audit the cybersecurity controls periodically to confirm they are in place and effective.",
+      "objective_ar": "مراجعة ضوابط الأمن السيبراني وتدقيقها دوريًا للتأكد من تطبيقها وفاعليتها.",
+      "page": 19
+    },
+    {
+      "id": "1-9",
+      "domain": "1",
+      "title_en": "Cybersecurity in Human Resources",
+      "title_ar": "الأمن السيبراني في الموارد البشرية",
+      "objective_en": "Cover cybersecurity before, during and after employment so people do not become a weak point.",
+      "objective_ar": "تغطية الأمن السيبراني قبل التوظيف وأثناءه وبعد انتهائه حتى لا يصبح الأفراد نقطة ضعف.",
+      "page": 20
+    },
+    {
+      "id": "1-10",
+      "domain": "1",
+      "title_en": "Cybersecurity Awareness and Training Program",
+      "title_ar": "برنامج التوعية والتدريب بالأمن السيبراني",
+      "objective_en": "Raise cybersecurity awareness and give staff the training their roles need.",
+      "objective_ar": "رفع الوعي بالأمن السيبراني وتزويد الموظفين بالتدريب الذي تتطلبه أدوارهم.",
+      "page": 21
+    },
+    {
+      "id": "2-1",
+      "domain": "2",
+      "title_en": "Asset Management",
+      "title_ar": "إدارة الأصول",
+      "objective_en": "Keep an accurate inventory of information and technology assets and classify them by importance.",
+      "objective_ar": "الاحتفاظ بجرد دقيق للأصول المعلوماتية والتقنية وتصنيفها بحسب أهميتها.",
+      "page": 22
+    },
+    {
+      "id": "2-2",
+      "domain": "2",
+      "title_en": "Identity and Access Management",
+      "title_ar": "إدارة الهويات والصلاحيات",
+      "objective_en": "Give the right people the right access, verify identity and review privileges over time.",
+      "objective_ar": "منح الأشخاص المناسبين الصلاحيات المناسبة والتحقق من الهوية ومراجعة الصلاحيات مع الوقت.",
+      "page": 22
+    },
+    {
+      "id": "2-3",
+      "domain": "2",
+      "title_en": "Information System and Processing Facilities Protection",
+      "title_ar": "حماية أنظمة المعلومات ومرافق معالجتها",
+      "objective_en": "Harden systems, servers and devices and protect the facilities that process information.",
+      "objective_ar": "تحصين الأنظمة والخوادم والأجهزة وحماية المرافق التي تعالج المعلومات.",
+      "page": 23
+    },
+    {
+      "id": "2-4",
+      "domain": "2",
+      "title_en": "Email Protection",
+      "title_ar": "حماية البريد الإلكتروني",
+      "objective_en": "Protect email against phishing, spoofing and malware and authenticate messages.",
+      "objective_ar": "حماية البريد الإلكتروني من التصيد والانتحال والبرمجيات الخبيثة والمصادقة على الرسائل.",
+      "page": 24
+    },
+    {
+      "id": "2-5",
+      "domain": "2",
+      "title_en": "Networks Security Management",
+      "title_ar": "إدارة أمن الشبكات",
+      "objective_en": "Segment and defend the network and control the traffic that crosses its boundaries.",
+      "objective_ar": "تجزئة الشبكة والدفاع عنها والتحكم في حركة البيانات التي تعبر حدودها.",
+      "page": 24
+    },
+    {
+      "id": "2-6",
+      "domain": "2",
+      "title_en": "Mobile Devices Security",
+      "title_ar": "أمن الأجهزة المحمولة",
+      "objective_en": "Secure mobile devices and remote work, including bring your own device, and protect their data.",
+      "objective_ar": "تأمين الأجهزة المحمولة والعمل عن بعد بما في ذلك الأجهزة الشخصية وحماية بياناتها.",
+      "page": 25
+    },
+    {
+      "id": "2-7",
+      "domain": "2",
+      "title_en": "Data and Information Protection",
+      "title_ar": "حماية البيانات والمعلومات",
+      "objective_en": "Protect data through its lifecycle according to its classification.",
+      "objective_ar": "حماية البيانات طوال دورة حياتها بحسب تصنيفها.",
+      "page": 26
+    },
+    {
+      "id": "2-8",
+      "domain": "2",
+      "title_en": "Cryptography",
+      "title_ar": "التشفير",
+      "objective_en": "Use approved cryptography to protect data and manage keys safely across their lifecycle.",
+      "objective_ar": "استخدام تشفير معتمد لحماية البيانات وإدارة المفاتيح بأمان طوال دورة حياتها.",
+      "page": 26
+    },
+    {
+      "id": "2-9",
+      "domain": "2",
+      "title_en": "Backup and Recovery Management",
+      "title_ar": "إدارة النسخ الاحتياطي والاسترجاع",
+      "objective_en": "Back up critical data and systems and test that they can be restored.",
+      "objective_ar": "إجراء نسخ احتياطي للبيانات والأنظمة الحرجة واختبار القدرة على استرجاعها.",
+      "page": 27
+    },
+    {
+      "id": "2-10",
+      "domain": "2",
+      "title_en": "Vulnerabilities Management",
+      "title_ar": "إدارة الثغرات",
+      "objective_en": "Find, assess and remediate technical vulnerabilities before they are exploited.",
+      "objective_ar": "اكتشاف الثغرات التقنية وتقييمها ومعالجتها قبل استغلالها.",
+      "page": 27
+    },
+    {
+      "id": "2-11",
+      "domain": "2",
+      "title_en": "Penetration Testing",
+      "title_ar": "اختبار الاختراق",
+      "objective_en": "Test defenses through planned penetration testing and fix what it finds.",
+      "objective_ar": "اختبار الدفاعات عبر اختبار اختراق مخطط له ومعالجة ما يكشفه.",
+      "page": 28
+    },
+    {
+      "id": "2-12",
+      "domain": "2",
+      "title_en": "Cybersecurity Event Logs and Monitoring Management",
+      "title_ar": "إدارة سجلات أحداث الأمن السيبراني ومراقبتها",
+      "objective_en": "Collect, protect and monitor security event logs to detect activity early.",
+      "objective_ar": "جمع سجلات أحداث الأمن السيبراني وحمايتها ومراقبتها لاكتشاف النشاط مبكرًا.",
+      "page": 29
+    },
+    {
+      "id": "2-13",
+      "domain": "2",
+      "title_en": "Cybersecurity Incident and Threat Management",
+      "title_ar": "إدارة حوادث وتهديدات الأمن السيبراني",
+      "objective_en": "Detect, handle and learn from cybersecurity incidents and act on threat intelligence.",
+      "objective_ar": "اكتشاف حوادث الأمن السيبراني والتعامل معها والتعلم منها والاستفادة من معلومات التهديدات.",
+      "page": 29
+    },
+    {
+      "id": "2-14",
+      "domain": "2",
+      "title_en": "Physical Security",
+      "title_ar": "الأمن المادي",
+      "objective_en": "Protect facilities and equipment from unauthorized physical access and damage.",
+      "objective_ar": "حماية المرافق والمعدات من الوصول المادي غير المصرح به ومن التلف.",
+      "page": 30
+    },
+    {
+      "id": "2-15",
+      "domain": "2",
+      "title_en": "Web Application Security",
+      "title_ar": "أمن تطبيقات الويب",
+      "objective_en": "Secure external web applications against common attacks throughout their lifecycle.",
+      "objective_ar": "تأمين تطبيقات الويب الخارجية ضد الهجمات الشائعة طوال دورة حياتها.",
+      "page": 31
+    },
+    {
+      "id": "3-1",
+      "domain": "3",
+      "title_en": "Cybersecurity Resilience Aspects of Business Continuity Management (BCM)",
+      "title_ar": "جوانب صمود الأمن السيبراني في إدارة استمرارية الأعمال",
+      "objective_en": "Build cybersecurity resilience into business continuity so cyber events do not stop critical services.",
+      "objective_ar": "تضمين صمود الأمن السيبراني في استمرارية الأعمال حتى لا توقف الأحداث السيبرانية الخدمات الحرجة.",
+      "page": 32
+    },
+    {
+      "id": "4-1",
+      "domain": "4",
+      "title_en": "Third-Party Cybersecurity",
+      "title_ar": "الأمن السيبراني للأطراف الخارجية",
+      "objective_en": "Manage the cybersecurity risk that third parties and outsourcing bring to the entity.",
+      "objective_ar": "إدارة مخاطر الأمن السيبراني التي يجلبها الأطراف الخارجية والإسناد إلى الجهة.",
+      "page": 49
+    },
+    {
+      "id": "4-2",
+      "domain": "4",
+      "title_en": "Cloud Computing and Hosting Cybersecurity",
+      "title_ar": "الأمن السيبراني للحوسبة السحابية والاستضافة",
+      "objective_en": "Set the cybersecurity requirements for using cloud computing and hosting services.",
+      "objective_ar": "تحديد متطلبات الأمن السيبراني لاستخدام خدمات الحوسبة السحابية والاستضافة.",
+      "page": 34
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "families": [
+    {
+      "id": "ecc",
+      "en": "Essential Cybersecurity Controls",
+      "ar": "الضوابط الأساسية للأمن السيبراني",
+      "abbr": "ECC",
+      "baseline": true,
+      "who_en": "Every national entity, its subsidiaries, and private entities that own, operate or host critical national infrastructure.",
+      "who_ar": "كل جهة وطنية وشركاتها التابعة والجهات الخاصة التي تملك بنية تحتية وطنية حساسة أو تشغّلها أو تستضيفها.",
+      "note_en": "The baseline. This register covers it in full.",
+      "note_ar": "الأساس وهذا السجل يغطيه بالكامل."
+    },
+    {
+      "id": "cscc",
+      "en": "Critical Systems Cybersecurity Controls",
+      "ar": "ضوابط الأمن السيبراني للأنظمة الحساسة",
+      "abbr": "CSCC",
+      "baseline": false,
+      "who_en": "Entities that own or operate critical systems, on top of the ECC.",
+      "who_ar": "الجهات التي تملك أنظمة حساسة أو تشغّلها إضافةً إلى الضوابط الأساسية.",
+      "note_en": "Extends the ECC for critical systems.",
+      "note_ar": "يوسّع الضوابط الأساسية للأنظمة الحساسة."
+    },
+    {
+      "id": "otcc",
+      "en": "Operational Technology Cybersecurity Controls",
+      "ar": "ضوابط الأمن السيبراني للأنظمة التشغيلية",
+      "abbr": "OTCC",
+      "baseline": false,
+      "who_en": "Entities that run operational technology and industrial control systems.",
+      "who_ar": "الجهات التي تشغّل أنظمة تقنية تشغيلية وأنظمة تحكم صناعي.",
+      "note_en": "The OT controls, split out of the ECC. The Dir' cyber range is built on these.",
+      "note_ar": "ضوابط الأنظمة التشغيلية المفصولة عن الضوابط الأساسية وعليها بُني ميدان درع السيبراني."
+    },
+    {
+      "id": "ccc",
+      "en": "Cloud Cybersecurity Controls",
+      "ar": "ضوابط الأمن السيبراني للحوسبة السحابية",
+      "abbr": "CCC",
+      "baseline": false,
+      "who_en": "Cloud service providers and the entities that use them.",
+      "who_ar": "مزودو خدمات الحوسبة السحابية والجهات التي تستخدمها.",
+      "note_en": "Applies when you provide or consume cloud services.",
+      "note_ar": "ينطبق عند تقديم خدمات الحوسبة السحابية أو استخدامها."
+    },
+    {
+      "id": "dcc",
+      "en": "Data Cybersecurity Controls",
+      "ar": "ضوابط الأمن السيبراني للبيانات",
+      "abbr": "DCC",
+      "baseline": false,
+      "who_en": "Entities that handle data across its lifecycle, especially classified data.",
+      "who_ar": "الجهات التي تتعامل مع البيانات طوال دورة حياتها وخاصة البيانات المصنّفة.",
+      "note_en": "Focuses on protecting data itself.",
+      "note_ar": "يركّز على حماية البيانات نفسها."
+    },
+    {
+      "id": "tcc",
+      "en": "Telework Cybersecurity Controls",
+      "ar": "ضوابط الأمن السيبراني للعمل عن بُعد",
+      "abbr": "TCC",
+      "baseline": false,
+      "who_en": "Entities that support remote and telework arrangements.",
+      "who_ar": "الجهات التي تتيح ترتيبات العمل عن بُعد.",
+      "note_en": "Applies where staff work remotely.",
+      "note_ar": "ينطبق حيث يعمل الموظفون عن بُعد."
+    }
+  ]
+}

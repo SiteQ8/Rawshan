@@ -1,0 +1,68 @@
+{
+  "note": {
+    "en": "Rawshan is an independent tool. The controls belong to the NCA. Control IDs, titles and page numbers follow the NCA official English text of ECC-2:2024. Summaries, crosswalks and notes are this project's own work and are kept apart from the official text.",
+    "ar": "روشن أداة مستقلة والضوابط ملك للهيئة الوطنية للأمن السيبراني حيث تستند معرّفات الضوابط وعناوينها وأرقام صفحاتها إلى النص الإنجليزي الرسمي للإصدار ECC-2 لعام 2024 أما الملخصات والمقابلات والملاحظات فهي عمل خاص بهذا المشروع مفصول عن النص الرسمي."
+  },
+  "sources": [
+    {
+      "id": "ecc",
+      "en": "NCA Essential Cybersecurity Controls",
+      "ar": "الضوابط الأساسية للأمن السيبراني من الهيئة الوطنية للأمن السيبراني",
+      "url": "https://nca.gov.sa/en/regulatory-documents/controls-list/ecc/",
+      "use": {
+        "en": "The framework this register is built on.",
+        "ar": "الإطار الذي بُني عليه هذا السجل."
+      }
+    },
+    {
+      "id": "ecc-pdf",
+      "en": "NCA ECC-2:2024 official document (English)",
+      "ar": "وثيقة ECC-2 لعام 2024 الرسمية باللغة الإنجليزية",
+      "url": "https://cdn.nca.gov.sa/api/files/public/upload/86e09090-44e4-481f-bc28-355673607654_ECC--2024-EN.pdf",
+      "use": {
+        "en": "The source of the control IDs, titles and page numbers.",
+        "ar": "مصدر معرّفات الضوابط وعناوينها وأرقام صفحاتها."
+      }
+    },
+    {
+      "id": "iso27001",
+      "en": "ISO/IEC 27001 Information security management",
+      "ar": "معيار ISO/IEC 27001 لإدارة أمن المعلومات",
+      "url": "https://www.iso.org/standard/27001",
+      "use": {
+        "en": "One side of the crosswalk.",
+        "ar": "أحد طرفي المقابلة."
+      }
+    },
+    {
+      "id": "csf2",
+      "en": "NIST Cybersecurity Framework 2",
+      "ar": "إطار الأمن السيبراني من NIST الإصدار 2",
+      "url": "https://www.nist.gov/cyberframework",
+      "use": {
+        "en": "The other side of the crosswalk.",
+        "ar": "الطرف الآخر من المقابلة."
+      }
+    },
+    {
+      "id": "pdpl",
+      "en": "Saudi Personal Data Protection Law (PDPL)",
+      "ar": "نظام حماية البيانات الشخصية في المملكة العربية السعودية",
+      "url": "https://sdaia.gov.sa/en/SDAIA/about/Pages/PersonalDataProtection.aspx",
+      "use": {
+        "en": "The source for the data protection obligations.",
+        "ar": "مصدر التزامات حماية البيانات الشخصية."
+      }
+    },
+    {
+      "id": "ncs",
+      "en": "NCA National Cryptographic Standards",
+      "ar": "المعايير الوطنية للتشفير من الهيئة الوطنية للأمن السيبراني",
+      "url": "https://nca.gov.sa/en/regulatory-documents/",
+      "use": {
+        "en": "Referenced by the cryptography controls.",
+        "ar": "مرجع ضوابط التشفير."
+      }
+    }
+  ]
+}
